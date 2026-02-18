@@ -1,0 +1,20 @@
+✅ Florence-2 is now installed and ready!
+
+Installation summary:
+
+✅ transformers: 5.2.0
+✅ einops: 0.8.2
+✅ depth-pro: 0.1
+✅ torch: 2.5.1+cu121
+✅ torchvision: 0.20.1+cu121
+✅ SAM2: 1.0
+✅ All VADAR requirements
+Minor note: There's a numpy version warning (depth-pro prefers numpy<2, but we have 2.4.2), but depth-pro imports and works correctly.
+
+Your VADAR setup with Florence-2 is complete! You can now use Florence-2 instead of Grounding DINO and Molmo for object localization.
+
+
+Dataset loaded successfully! The Omni3D-Bench dataset contains:
+
+501 examples in the train split
+Features: image_index, image, q_index, question, answer, answer_type

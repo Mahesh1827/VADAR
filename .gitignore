@@ -1,0 +1,11 @@
+*__pycache__
+
+*.key
+*.csv
+
+data/
+
+sam2/
+results/
+
+venv/
