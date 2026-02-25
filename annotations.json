@@ -1,0 +1,3511 @@
+{
+    "questions": [
+        {
+            "image_index": "91339.246_00000463.jpg",
+            "question_index": 0,
+            "question": "What is the ratio of the height of the fireplace to the combined height of the coffee table and the sofa to the right of the coffee table?",
+            "answer_type": "float",
+            "answer": "0.948"
+        },
+        {
+            "image_index": "91339.246_00000463.jpg",
+            "question_index": 1,
+            "question": "If the coffee table is 2m long, how long is the sofa to the right of it in meters?",
+            "answer_type": "float",
+            "answer": "3.026"
+        },
+        {
+            "image_index": "91339.246_00000463.jpg",
+            "question_index": 2,
+            "question": "If the rightmost sofa were placed in front of the fireplace, would the fireplace still be visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "40579.354_00002498.jpg",
+            "question_index": 3,
+            "question": "If the armchair is 1.5m wide, how tall is the combined cabinet right next to it in meters?",
+            "answer_type": "float",
+            "answer": "3.497"
+        },
+        {
+            "image_index": "123687.328_00001658.jpg",
+            "question_index": 4,
+            "question": "What is the ratio of the height of the leftmost cabinet to the width of the center cabinet?",
+            "answer_type": "float",
+            "answer": "2.726"
+        },
+        {
+            "image_index": "144249.998_00004791.jpg",
+            "question_index": 5,
+            "question": "How many of the rightmost stool would you have to stack to reach the same height as the left-most chair?",
+            "answer_type": "float",
+            "answer": "1.803"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 6,
+            "question": "Is the white coffee table on the carpet large enough to stack the black table on top of it?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 7,
+            "question": "How many objects of the same height as the TV would you have to stack on top of each other to achieve an object the same height as the sofa?",
+            "answer_type": "float",
+            "answer": "1.148"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 8,
+            "question": "How many objects of double the height of the white coffee table would you have to stack on top of each other to achieve an object the same height as the fireplace?",
+            "answer_type": "float",
+            "answer": "2.816"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 9,
+            "question": "If the black table is 1.5m wide, how tall is the TV in meters?",
+            "answer_type": "float",
+            "answer": "1.031"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 10,
+            "question": "Which object is closer to the fireplace: the sofa or the white coffee table? Options: {sofa, coffee table}",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 11,
+            "question": "If the TV were to fall directly forward over the glass table, would it hit the black table?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "18917.457_00002815.jpg",
+            "question_index": 12,
+            "question": "If the black table were pushed directly against the sofa, would the sofa still be visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 13,
+            "question": "What is the ratio of the width of the combined top-most cabinets to the width of the washing machine?",
+            "answer_type": "float",
+            "answer": "2.156"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 14,
+            "question": "How many objects of the same width as the rightmost chair would you have to stack to produce an object of the same width as the one of the topmost cabinets?",
+            "answer_type": "float",
+            "answer": "4.282"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 15,
+            "question": "Including all objects, how many handles are shown?",
+            "answer_type": "int",
+            "answer": "9"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 16,
+            "question": "Which object is closer to the camera: the washing machine or the rightmost chair? Options: {washing machine, rightmost chair}",
+            "answer_type": "str",
+            "answer": "rightmost chair"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 17,
+            "question": "Which object is closer to the camera: the washing machine or the kettle? Options: {washing machine, kettle}",
+            "answer_type": "str",
+            "answer": "washing machine"
+        },
+        {
+            "image_index": "32292.427_00002318.jpg",
+            "question_index": 18,
+            "question": "Which object is closer to the camera: the washing machine or the kettle? Options: {washing machine, kettle}",
+            "answer_type": "str",
+            "answer": "washing machine"
+        },
+        {
+            "image_index": "23026.800_00002444.jpg",
+            "question_index": 19,
+            "question": "If the cabinet is 2m wide and the TV is moved 0.4m forward, will it fall over?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "23026.800_00002444.jpg",
+            "question_index": 20,
+            "question": "If the TV's height is doubled, how many cabinets would fit along its height?",
+            "answer_type": "float",
+            "answer": "2.872"
+        },
+        {
+            "image_index": "789.221_00005324.jpg",
+            "question_index": 21,
+            "question": "If the red sofa is 3m wide and is moved 2m towards the camera, would it hit the white table?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "789.221_00005324.jpg",
+            "question_index": 22,
+            "question": "If the red sofa's width is tripled and the white table's height is doubled, what is the ratio of the height of the white table to the width of the red sofa?",
+            "answer_type": "float",
+            "answer": "0.208"
+        },
+        {
+            "image_index": "1828.155_00003998.jpg",
+            "question_index": 23,
+            "question": "If the TV were to fall forward, would it hit the lamp or the glass table first?",
+            "answer_type": "str",
+            "answer": "lamp"
+        },
+        {
+            "image_index": "1828.155_00003998.jpg",
+            "question_index": 24,
+            "question": "Omitting the black base at the bottom, how many shelves does the TV table have?",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "1828.155_00003998.jpg",
+            "question_index": 25,
+            "question": "What is the ratio of the height of the wooden table to the combined height of the TV and the TV table?",
+            "answer_type": "float",
+            "answer": "0.579"
+        },
+        {
+            "image_index": "28821.006_00000337.jpg",
+            "question_index": 26,
+            "question": "If the leftmost cabinet is 2m wide, how tall is the black chair in meters?",
+            "answer_type": "float",
+            "answer": "2.103"
+        },
+        {
+            "image_index": "28821.006_00000337.jpg",
+            "question_index": 27,
+            "question": "If the black chair were placed adjacent to the leftmost cabinet, would the chair appear taller than the shelf?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "28821.006_00000337.jpg",
+            "question_index": 28,
+            "question": "How many plants are further away from the camera than the chair?",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "183724.018_00000638.jpg",
+            "question_index": 29,
+            "question": "Which object is closer to the camera: the TV or the christmas tree?",
+            "answer_type": "str",
+            "answer": "christmas tree"
+        },
+        {
+            "image_index": "183724.018_00000638.jpg",
+            "question_index": 30,
+            "question": "How many of the houses under the TV could you fit on the surface of white cabinet below the TV?",
+            "answer_type": "float",
+            "answer": "1.019"
+        },
+        {
+            "image_index": "183724.018_00000638.jpg",
+            "question_index": 31,
+            "question": "What is the ratio of the volume of the rightmost sofa to the circular table under the TV?",
+            "answer_type": "float",
+            "answer": "5.814"
+        },
+        {
+            "image_index": "183724.018_00000638.jpg",
+            "question_index": 32,
+            "question": "If you move the circular table under the tv in front of the white table under the tv will the white table under the tv still be visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "12214.439_00001777.jpg",
+            "question_index": 33,
+            "question": "Can you stack the stool to the left of the piano on top of the stool in front of the piano without it falling?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "12214.439_00001777.jpg",
+            "question_index": 34,
+            "question": "If the sofa is 0.4m tall, how wide is the stool in front of the piano in meters?",
+            "answer_type": "float",
+            "answer": "0.224"
+        },
+        {
+            "image_index": "10498.967_00003764.jpg",
+            "question_index": 35,
+            "question": "What is the ratio of the height of the leftmost cabinet to 1.5 times the height of the armchair?",
+            "answer_type": "float",
+            "answer": "1.58"
+        },
+        {
+            "image_index": "24659.208_00000295.jpg",
+            "question_index": 36,
+            "question": "Including both cabinets and doors, how many handles are there ?",
+            "answer_type": "int",
+            "answer": "11"
+        },
+        {
+            "image_index": "24659.208_00000295.jpg",
+            "question_index": 37,
+            "question": "If the combined width of the two sinks is 1.5m, how tall is the bathtub in meters?",
+            "answer_type": "float",
+            "answer": "1.326"
+        },
+        {
+            "image_index": "4706.700_00003338.jpg",
+            "question_index": 38,
+            "question": "Counting from the top shelf, what shelf has a block of adjacent books that are all red? Answer with a number for the shelf (e.g. 1 for 1st shelf)",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "4706.700_00003338.jpg",
+            "question_index": 39,
+            "question": "Counting from the top shelf, what shelf has a block of adjacent books that are all yellow? Answer with a number for the shelf (e.g. 1 for 1st shelf)",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "4706.700_00003338.jpg",
+            "question_index": 40,
+            "question": "What is the ratio of the height of the TV to the width of the pink chair in front of the white bookshelf?",
+            "answer_type": "float",
+            "answer": "1.05"
+        },
+        {
+            "image_index": "4706.700_00003338.jpg",
+            "question_index": 41,
+            "question": "If the sum of the height of the TV and the width of the pink chair in front of the white bookshelf is 2.2m, how tall is the white bookshelf in meters?",
+            "answer_type": "float",
+            "answer": "3.4"
+        },
+        {
+            "image_index": "77419.577_00004376.jpg",
+            "question_index": 42,
+            "question": "What is the ratio of gray chairs to black chairs? Write your answer as a decimal.",
+            "answer_type": "float",
+            "answer": "0.4"
+        },
+        {
+            "image_index": "77419.577_00004376.jpg",
+            "question_index": 43,
+            "question": "What is closer to the camera: the small tree or the leftmost lamp?",
+            "answer_type": "str",
+            "answer": "small tree"
+        },
+        {
+            "image_index": "19254.957_00006465.jpg",
+            "question_index": 44,
+            "question": "How many red curtains are there?",
+            "answer_type": "int",
+            "answer": "5"
+        },
+        {
+            "image_index": "19254.957_00006465.jpg",
+            "question_index": 45,
+            "question": "How many objects of height equal to the height of the translucent cube do you need to stack to achieve an object the same height as as the right-most chair?",
+            "answer_type": "float",
+            "answer": "2.051"
+        },
+        {
+            "image_index": "52137.771_00003578.jpg",
+            "question_index": 46,
+            "question": "Are there more computer monitors than computer keyboards ?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "52137.771_00003578.jpg",
+            "question_index": 47,
+            "question": "What is the ratio of the width of the black monitor to the width of the white monitor?",
+            "answer_type": "float",
+            "answer": "1.117"
+        },
+        {
+            "image_index": "23964.163_00006219.jpg",
+            "question_index": 48,
+            "question": "If the black stool is 1.3m tall, how tall is the leftmost black kitchen counter in meters?",
+            "answer_type": "float",
+            "answer": "1.512"
+        },
+        {
+            "image_index": "16477.004_00000337.jpg",
+            "question_index": 49,
+            "question": "How many frames with artwork inside of them are there?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "16477.004_00000337.jpg",
+            "question_index": 50,
+            "question": "If the polka dot chair were placed in front of the fireplace, would the fireplace still be visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "16477.004_00000337.jpg",
+            "question_index": 51,
+            "question": "If the silver chalice were to fall in the direction of the polka dot chair, would it hit the cream-colored chair before hitting the floor?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "16477.004_00000337.jpg",
+            "question_index": 52,
+            "question": "If the chair closest to the camera is 0.2m tall, how tall is the polka dot chair?",
+            "answer_type": "float",
+            "answer": "0.225"
+        },
+        {
+            "image_index": "868.608_00000757.jpg",
+            "question_index": 53,
+            "question": "Excluding the kitchen counters and cabinets, how many shelves are there?",
+            "answer_type": "int",
+            "answer": "5"
+        },
+        {
+            "image_index": "868.608_00000757.jpg",
+            "question_index": 54,
+            "question": "Including chandeliers and ceiling lights, how many lights are ?",
+            "answer_type": "int",
+            "answer": "9"
+        },
+        {
+            "image_index": "868.608_00000757.jpg",
+            "question_index": 55,
+            "question": "What is the ratio of chairs closer to the camera than the left-most plant to chairs further away to the camera than the left-most plant? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "2.0"
+        },
+        {
+            "image_index": "868.608_00000757.jpg",
+            "question_index": 56,
+            "question": "If the righmost brown cabinet is 1.4m tall, how tall is the black cabinet on the right of the kitchen counter in meters?",
+            "answer_type": "float",
+            "answer": "3.189"
+        },
+        {
+            "image_index": "12659.708_00004001.jpg",
+            "question_index": 57,
+            "question": "How many pieces of wood are inside the basket under the desk?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "12659.708_00004001.jpg",
+            "question_index": 58,
+            "question": "What is the ratio of post-it notes to picture frames? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "12659.708_00004001.jpg",
+            "question_index": 59,
+            "question": "Is triple the width of the chair greater than 1.5 times the height of the desk?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "74111.154_00003596.jpg",
+            "question_index": 60,
+            "question": "How many shoeboxes are visible?",
+            "answer_type": "int",
+            "answer": "14"
+        },
+        {
+            "image_index": "74605.591_00000361.jpg",
+            "question_index": 61,
+            "question": "What number would you have to multiply the width of the small stool such that it matches the height of the fireplace?",
+            "answer_type": "float",
+            "answer": "3.632"
+        },
+        {
+            "image_index": "25439.446_00005319.jpg",
+            "question_index": 62,
+            "question": "How many objects with the volume of the combined volume of the two bedside tables would fit in an object with the volume of the bed?",
+            "answer_type": "float",
+            "answer": "9.658"
+        },
+        {
+            "image_index": "126936.907_00000277.jpg",
+            "question_index": 63,
+            "question": "What is the ratio of chairs with a jacket on them to chairs without a jacket on them? Answer with a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "91221.527_00006129.jpg",
+            "question_index": 64,
+            "question": "Are there more flowers than dining chairs?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "612.172_00008260.jpg",
+            "question_index": 65,
+            "question": "How many chairs are further away from the camera than the laptop?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "351408.524_00000210.jpg",
+            "question_index": 66,
+            "question": "What is the ratio of coasters to black TV remotes? Answer with a decimal",
+            "answer_type": "float",
+            "answer": "0.5"
+        },
+        {
+            "image_index": "356407.366_00001303.jpg",
+            "question_index": 67,
+            "question": "Including all objects, how many objects are stuck on the fridge?",
+            "answer_type": "int",
+            "answer": "14"
+        },
+        {
+            "image_index": "24745.208_00005457.jpg",
+            "question_index": 68,
+            "question": "If the toilet is 0.5m wide, what is the height of the rightmost chair?",
+            "answer_type": "float",
+            "answer": "0.587"
+        },
+        {
+            "image_index": "52099.786_00001298.jpg",
+            "question_index": 69,
+            "question": "How many computer mice are shown?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "471295.739_00011021.jpg",
+            "question_index": 70,
+            "question": "What is the ratio of brown chairs to black chairs? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "212390.641_00002156.jpg",
+            "question_index": 71,
+            "question": "How many plates are visible?",
+            "answer_type": "int",
+            "answer": "5"
+        },
+        {
+            "image_index": "53942.080_00001819.jpg",
+            "question_index": 72,
+            "question": "How many letters is in the word under the flowers?",
+            "answer_type": "int",
+            "answer": "6"
+        },
+        {
+            "image_index": "14379.170_00000919.jpg",
+            "question_index": 73,
+            "question": "If the bedside table is 1.7m tall, how tall is the bed in meters?",
+            "answer_type": "float",
+            "answer": "1.368"
+        },
+        {
+            "image_index": "18098.955_00002917.jpg",
+            "question_index": 74,
+            "question": "If the black chair is 2.1m tall, how tall is the white stool in front of the mirror?",
+            "answer_type": "float",
+            "answer": "5.873"
+        },
+        {
+            "image_index": "74995.398_00000397.jpg",
+            "question_index": 75,
+            "question": "If the diagonal length of the tv is 1.5m, how tall is the left-most sofa in meters?",
+            "answer_type": "float",
+            "answer": "0.923"
+        },
+        {
+            "image_index": "25377.400_00004478.jpg",
+            "question_index": 76,
+            "question": "What is the ratio of the height of the TV to the height of the TV stand?",
+            "answer_type": "float",
+            "answer": "1.265"
+        },
+        {
+            "image_index": "66272.518_00000097.jpg",
+            "question_index": 77,
+            "question": "Is the square of the width of the tv greater than double the sum of the height of the rightmost chair and the height of the sofa furthest from the camera?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "9493.159_00000324.jpg",
+            "question_index": 78,
+            "question": "If the TV were to fall directly forward, would it hit the light blue table?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "9493.159_00000324.jpg",
+            "question_index": 79,
+            "question": "How many objects of the volume of coffee table can fit in an object of the volume of the sofa?",
+            "answer_type": "float",
+            "answer": "8.103"
+        },
+        {
+            "image_index": "23066.501_00000583.jpg",
+            "question_index": 80,
+            "question": "How many lightbulbs does the chandelier have?",
+            "answer_type": "int",
+            "answer": "8"
+        },
+        {
+            "image_index": "84342.312_00000277.jpg",
+            "question_index": 81,
+            "question": "I'm standing where the polka-dot pillow is and facing in the direction of the fireplace. Call this direction north (N). What direction is the high-top gray chair? Choose from N, NE, E, SE, S, SW, W, NW.",
+            "answer_type": "str",
+            "answer": "S"
+        },
+        {
+            "image_index": "84342.312_00000277.jpg",
+            "question_index": 82,
+            "question": "If the chair with the polka dot pillow is 1.2m wide, how tall is the fireplace?",
+            "answer_type": "float",
+            "answer": "2.717"
+        },
+        {
+            "image_index": "84342.312_00000277.jpg",
+            "question_index": 83,
+            "question": "Including all colors, how many post-it notes are present?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "84342.312_00000277.jpg",
+            "question_index": 84,
+            "question": "What is the ratio of the height of the high-top gray chair to the width of the chair with the polka-dot pillow?",
+            "answer_type": "float",
+            "answer": "1.86"
+        },
+        {
+            "image_index": "7853.352_00003939.jpg",
+            "question_index": 85,
+            "question": "If I'm standing on the righmost stool and facing the camera. Call this direction north (N). What direction is the fireplace? Choose from N, NE, E, SE, S, SW, W, NW",
+            "answer_type": "str",
+            "answer": "NE"
+        },
+        {
+            "image_index": "7853.352_00003939.jpg",
+            "question_index": 86,
+            "question": "If you place the right-most stool in front of the fireplace, is the fireplace still visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "7853.352_00003939.jpg",
+            "question_index": 87,
+            "question": "How many objects of double the width of right-most stool would you need to stack to achieve an object the same width as the fireplace?",
+            "answer_type": "float",
+            "answer": "1.975"
+        },
+        {
+            "image_index": "5476.349_00000402.jpg",
+            "question_index": 88,
+            "question": "How many towels are on top of the bed?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "8446.576_00000517.jpg",
+            "question_index": 89,
+            "question": "Counting the dials as handles, how many handles are shown?",
+            "answer_type": "int",
+            "answer": "9"
+        },
+        {
+            "image_index": "87575.702_00000589.jpg",
+            "question_index": 90,
+            "question": "What is the ratio of the width of the brown chair to the height of the brown cabinet?",
+            "answer_type": "float",
+            "answer": "0.24"
+        },
+        {
+            "image_index": "186909.798_00006580.jpg",
+            "question_index": 91,
+            "question": "I'm standing at the christmas tree and facing the camera. Call this direction north (N). What direction is the TV? Choose from N, NE, E, SE, S, SW, W, NW.",
+            "answer_type": "str",
+            "answer": "W"
+        },
+        {
+            "image_index": "186909.798_00006580.jpg",
+            "question_index": 92,
+            "question": "If the combined height of the TV and TV stand is 2m, how wide is the brown and silver coffee table?",
+            "answer_type": "float",
+            "answer": "2.546"
+        },
+        {
+            "image_index": "143917.603_00005451.jpg",
+            "question_index": 93,
+            "question": "What number would you have to multiply the length of the sofa-side table to reach the height of the fireplace?",
+            "answer_type": "float",
+            "answer": "2.432"
+        },
+        {
+            "image_index": "114979.918_00002498.jpg",
+            "question_index": 94,
+            "question": "How many objects of the volume of the bedside table can you fit in an object with the volume of the bed?",
+            "answer_type": "float",
+            "answer": "15.407"
+        },
+        {
+            "image_index": "114979.918_00002498.jpg",
+            "question_index": 95,
+            "question": "If the combined height of the bedside table and left-most cabinet is 3m, how wide is the bed?",
+            "answer_type": "float",
+            "answer": "3.454"
+        },
+        {
+            "image_index": "233710.096_00000997.jpg",
+            "question_index": 96,
+            "question": "What is closer to the camera: the middle chandelier or the christmas tree?",
+            "answer_type": "str",
+            "answer": "middle chandelier"
+        },
+        {
+            "image_index": "114325.651_00002557.jpg",
+            "question_index": 97,
+            "question": "What is the ratio of striped balls to solid balls? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "84824.956_00004659.jpg",
+            "question_index": 98,
+            "question": "Is the utensil holder closer to the edge of the black counter or the brown drawer above them? Options: {black counter, brown drawer}",
+            "answer_type": "str",
+            "answer": "brown drawer"
+        },
+        {
+            "image_index": "15384.844_00005078.jpg",
+            "question_index": 99,
+            "question": "If the roses fell directly towards the camera, would they hit the sofa or the floor first?",
+            "answer_type": "str",
+            "answer": "floor"
+        },
+        {
+            "image_index": "15384.844_00005078.jpg",
+            "question_index": 100,
+            "question": "Is the left-most pillow a lighter color than the pillow directly in front of it?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "15384.844_00005078.jpg",
+            "question_index": 101,
+            "question": "Omitting the green plant, would the white sofa-side counter fit under the table holding the roses?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "15384.844_00005078.jpg",
+            "question_index": 102,
+            "question": "If the white sofa-side counter is 1.2m tall, how wide is the sofa?",
+            "answer_type": "float",
+            "answer": "6.132"
+        },
+        {
+            "image_index": "720.675_00002737.jpg",
+            "question_index": 103,
+            "question": "Counting from the top shelf, what shelf has a block of 3 adjacent navy-blue books? Answer with a number for the shelf (e.g. 1 for 1st shelf)",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "720.675_00002737.jpg",
+            "question_index": 104,
+            "question": "Counting from the top shelf, what shelf has a block of 3 adjacent yellow books? Answer with a number for the shelf (e.g. 1 for 1st shelf)",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "720.675_00002737.jpg",
+            "question_index": 105,
+            "question": "If the combined height of the kitchen counter and the brown stool is 2.3m, how tall is the bookshelf?",
+            "answer_type": "float",
+            "answer": "3.061"
+        },
+        {
+            "image_index": "14443.893_00002504.jpg",
+            "question_index": 106,
+            "question": "Are there more lights or remote controls? Choose from lights, remote controls, same",
+            "answer_type": "str",
+            "answer": "same"
+        },
+        {
+            "image_index": "14443.893_00002504.jpg",
+            "question_index": 107,
+            "question": "Is the ceiling the same color as the closest or furthest remote control to the camera? Options: {furthest, closest}",
+            "answer_type": "str",
+            "answer": "closest"
+        },
+        {
+            "image_index": "24364.518_00004658.jpg",
+            "question_index": 108,
+            "question": "How many frames are shown?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "24364.518_00004658.jpg",
+            "question_index": 109,
+            "question": "If you placed the dotted pillow on top of the blue chair, would it cover the entirety of the base?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "66360.316_00001952.jpg",
+            "question_index": 110,
+            "question": "If the height of the couch were scaled to be 4.1m, how tall would the coffee table be?",
+            "answer_type": "float",
+            "answer": "1.469"
+        },
+        {
+            "image_index": "15279.152_00002156.jpg",
+            "question_index": 111,
+            "question": "Excluding the sofa itself, how many pillows are?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "74514.833_00005019.jpg",
+            "question_index": 112,
+            "question": "Is the rightmost chair closer to the table or the wooden dresser? Options: {table, dresser}",
+            "answer_type": "str",
+            "answer": "table"
+        },
+        {
+            "image_index": "74514.833_00005019.jpg",
+            "question_index": 113,
+            "question": "If the table is 1.8m tall, how tall is the brown dresser?",
+            "answer_type": "float",
+            "answer": "2.279"
+        },
+        {
+            "image_index": "40015.594_00001249.jpg",
+            "question_index": 114,
+            "question": "Is the white bin closer to the bathtub or the white dresser?",
+            "answer_type": "str",
+            "answer": "bathtub"
+        },
+        {
+            "image_index": "233447.283_00002438.jpg",
+            "question_index": 115,
+            "question": "What is the ratio of pillows to remote controls? Answer with a decimal",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "10163.212_00001538.jpg",
+            "question_index": 116,
+            "question": "If you place the left-most chair in front of the TV stand, will it appear taller than the TV?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "10163.212_00001538.jpg",
+            "question_index": 117,
+            "question": "If the pillows on the chair were placed vertically on top of each other, would they be taller than the TV stand?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "10163.212_00001538.jpg",
+            "question_index": 118,
+            "question": "Is the leftmost chair closer to the TV or the TV stand? Options: {tv, tv stand}",
+            "answer_type": "str",
+            "answer": "tv stand"
+        },
+        {
+            "image_index": "10163.212_00001538.jpg",
+            "question_index": 119,
+            "question": "If leftmost chair is 0.4m tall, how wide is the TV stand?",
+            "answer_type": "float",
+            "answer": "0.44"
+        },
+        {
+            "image_index": "14782.609_00004611.jpg",
+            "question_index": 120,
+            "question": "Would a pet drink from the nearest or furthest bowl from the camera? Options: {nearest, furthest}",
+            "answer_type": "str",
+            "answer": "furthest"
+        },
+        {
+            "image_index": "14782.609_00004611.jpg",
+            "question_index": 121,
+            "question": "How many water bottles are in the bottom-left corner?",
+            "answer_type": "int",
+            "answer": "8"
+        },
+        {
+            "image_index": "41021.421_00000576.jpg",
+            "question_index": 122,
+            "question": "If the couch is 0.8m tall, how tall is the right-most cabinet?",
+            "answer_type": "float",
+            "answer": "0.756"
+        },
+        {
+            "image_index": "2756.620_00000938.jpg",
+            "question_index": 123,
+            "question": "Rounding to the nearest 5 minutes, what time is it on the clock? Write your answer in the format xx:yy (e.g. 08:24)",
+            "answer_type": "str",
+            "answer": "03:15"
+        },
+        {
+            "image_index": "32253.032_00001015.jpg",
+            "question_index": 124,
+            "question": "How many objects with the volume of the sofa-side table would fit in an object with the volume of the sofa?",
+            "answer_type": "float",
+            "answer": "30.661"
+        },
+        {
+            "image_index": "84344.686_00000396.jpg",
+            "question_index": 125,
+            "question": "What is the ratio of the height of the couch to the height of the wooden stool?",
+            "answer_type": "float",
+            "answer": "1.648"
+        },
+        {
+            "image_index": "84344.686_00000396.jpg",
+            "question_index": 126,
+            "question": "What color is the sofa? Options: {red, white, blue, black}",
+            "answer_type": "str",
+            "answer": "white"
+        },
+        {
+            "image_index": "117564.261_00000038.jpg",
+            "question_index": 127,
+            "question": "How many objects of the volume of the blue stool can you fit in an object with the volume of the couch?",
+            "answer_type": "float",
+            "answer": "25.207"
+        },
+        {
+            "image_index": "117564.261_00000038.jpg",
+            "question_index": 128,
+            "question": "If you pushed the right-most red couch in front of the yellow couch, would the yellow couch remain visible?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "24090.663_00006663.jpg",
+            "question_index": 129,
+            "question": "What is the ratio of post-it notes to ceiling lights?",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "3587.612_00000337.jpg",
+            "question_index": 130,
+            "question": "How many chairs are further away from the camera than the furthest point of the table?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "91386.244_00003284.jpg",
+            "question_index": 131,
+            "question": "How many chairs have pillows on top of them?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "47702.364_00003218.jpg",
+            "question_index": 132,
+            "question": "How many fruits are in the fruit basket?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "47702.364_00003218.jpg",
+            "question_index": 133,
+            "question": "Are there more chairs at the dining table or the kitchen counter?",
+            "answer_type": "str",
+            "answer": "dining table"
+        },
+        {
+            "image_index": "73238.020_00000877.jpg",
+            "question_index": 134,
+            "question": "How many handles are shown?",
+            "answer_type": "int",
+            "answer": "11"
+        },
+        {
+            "image_index": "77537.995_00000043.jpg",
+            "question_index": 135,
+            "question": "How many candles are on ?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "12273.449_00005319.jpg",
+            "question_index": 136,
+            "question": "If the fireplace is 1.9m tall, how wide is the black coffee table?",
+            "answer_type": "float",
+            "answer": "1.415"
+        },
+        {
+            "image_index": "144261.993_00005511.jpg",
+            "question_index": 137,
+            "question": "Including the sofa pillows, how many pillows are on the central gray couch?",
+            "answer_type": "int",
+            "answer": "6"
+        },
+        {
+            "image_index": "3679.200_00000403.jpg",
+            "question_index": 138,
+            "question": "If the chair is 0.8m wide, how tall is the bed in meters?",
+            "answer_type": "float",
+            "answer": "1.011"
+        },
+        {
+            "image_index": "46011.128_00000937.jpg",
+            "question_index": 139,
+            "question": "What is the ratio of chairs with a backrest to chairs with no backrest? Answer with a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "62102.532_00000589.jpg",
+            "question_index": 140,
+            "question": "What number would you have to multiply the height of the top oven with to achieve a number that matches the width of the drawers next to the oven?",
+            "answer_type": "float",
+            "answer": "2.147"
+        },
+        {
+            "image_index": "95015.853_00001675.jpg",
+            "question_index": 141,
+            "question": "If the cabinet directly left of the fire vent is 0.3m wide, how tall is it in meters?",
+            "answer_type": "float",
+            "answer": "0.277"
+        },
+        {
+            "image_index": "14896.261_00004598.jpg",
+            "question_index": 142,
+            "question": "How many plants are shown?",
+            "answer_type": "int",
+            "answer": "5"
+        },
+        {
+            "image_index": "187955.417_00000277.jpg",
+            "question_index": 143,
+            "question": "If the sink is 0.5m long, how wide is the shelf below it?",
+            "answer_type": "float",
+            "answer": "0.551"
+        },
+        {
+            "image_index": "603.024_00002258.jpg",
+            "question_index": 144,
+            "question": "If the combined height of the TV and TV stand is 2.7m, how tall is the fireplace?",
+            "answer_type": "float",
+            "answer": "2.989"
+        },
+        {
+            "image_index": "669.847_00001717.jpg",
+            "question_index": 145,
+            "question": "Consider the rightmost chair. You'll notice at the top there are wooden grates that produce squares of empty space. How many of those empty squares are there?",
+            "answer_type": "int",
+            "answer": "18"
+        },
+        {
+            "image_index": "16439.702_00001657.jpg",
+            "question_index": 146,
+            "question": "If the right-most chair is 0.2m wide, how tall is the wooden cabinet?",
+            "answer_type": "float",
+            "answer": "0.344"
+        },
+        {
+            "image_index": "187.188_00000517.jpg",
+            "question_index": 147,
+            "question": "How many knives are in the knife holder?",
+            "answer_type": "int",
+            "answer": "8"
+        },
+        {
+            "image_index": "187.188_00000517.jpg",
+            "question_index": 148,
+            "question": "If the sink is 2.1m wide, how tall is the washing machine?",
+            "answer_type": "float",
+            "answer": "4.548"
+        },
+        {
+            "image_index": "12309.727_00004004.jpg",
+            "question_index": 149,
+            "question": "If the cabinet next to the couch is 4.2m wide, how tall is the cabinet adjacent to that cabinet?",
+            "answer_type": "float",
+            "answer": "1.655"
+        },
+        {
+            "image_index": "22064.414_00001501.jpg",
+            "question_index": 150,
+            "question": "How many placemats are on the table?",
+            "answer_type": "int",
+            "answer": "6"
+        },
+        {
+            "image_index": "22064.414_00001501.jpg",
+            "question_index": 151,
+            "question": "What is the number of placemats divided by the number of plants?",
+            "answer_type": "float",
+            "answer": "3.0"
+        },
+        {
+            "image_index": "335743.733_00002702.jpg",
+            "question_index": 152,
+            "question": "If you laid the toothbrush horizontally, would it be wider than one of the tiles?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "65662.203_00000817.jpg",
+            "question_index": 153,
+            "question": "If the leftmost cabinet is 1.9m wide, how tall is the glass cabinet directly adjacent to it?",
+            "answer_type": "float",
+            "answer": "2.213"
+        },
+        {
+            "image_index": "97725.490_00003518.jpg",
+            "question_index": 154,
+            "question": "If the width of the wooden chair is 0.7m wide, how tall is the right-most leather chair?",
+            "answer_type": "float",
+            "answer": "1.598"
+        },
+        {
+            "image_index": "86556.880_00005679.jpg",
+            "question_index": 155,
+            "question": "If the chair at the end of the counter is 0.4m tall, how tall is the fireplace?",
+            "answer_type": "float",
+            "answer": "0.623"
+        },
+        {
+            "image_index": "62248.025_00005018.jpg",
+            "question_index": 156,
+            "question": "How many plants are in this scene?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "603.024_00002258.jpg",
+            "question_index": 157,
+            "question": "What is the ratio of the height of the TV to the width of the TV stand?",
+            "answer_type": "float",
+            "answer": "0.673"
+        },
+        {
+            "image_index": "23504.945_00002258.jpg",
+            "question_index": 158,
+            "question": "If the TV is 1.9m wide, how tall is the TV stand?",
+            "answer_type": "float",
+            "answer": "0.617"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 159,
+            "question": "How many objects of the volume of the small stool fit in an object of the volume of the couch furthest from the camera?",
+            "answer_type": "float",
+            "answer": "9.535"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 160,
+            "question": "How many objects of the volume of the small stool fit in an object of the volume of the left-most armchair?",
+            "answer_type": "float",
+            "answer": "1.823"
+        },
+        {
+            "image_index": "88201.899_00005451.jpg",
+            "question_index": 161,
+            "question": "If the TV is 0.4m wide, how tall is the pool table?",
+            "answer_type": "float",
+            "answer": "0.202"
+        },
+        {
+            "image_index": "79762.084_00004065.jpg",
+            "question_index": 162,
+            "question": "How many handles are visible?",
+            "answer_type": "int",
+            "answer": "6"
+        },
+        {
+            "image_index": "12713.520_00002318.jpg",
+            "question_index": 163,
+            "question": "What is the ratio of the height of the rightmost chair to the width of the wooden shelf next to the window?",
+            "answer_type": "float",
+            "answer": "1.153"
+        },
+        {
+            "image_index": "365199.242_00003398.jpg",
+            "question_index": 164,
+            "question": "How many handles are visible?",
+            "answer_type": "int",
+            "answer": "12"
+        },
+        {
+            "image_index": "23921.163_00003638.jpg",
+            "question_index": 165,
+            "question": "If the TV were to fall directly forward, would it hit the coffee table?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "23921.163_00003638.jpg",
+            "question_index": 166,
+            "question": "If the TV is 0.9m wide, how tall is the TV stand?",
+            "answer_type": "float",
+            "answer": "0.558"
+        },
+        {
+            "image_index": "23921.163_00003638.jpg",
+            "question_index": 167,
+            "question": "If the TV is 1.2m wide, how tall is the coffee stand?",
+            "answer_type": "float",
+            "answer": "0.508"
+        },
+        {
+            "image_index": "91351.258_00001184.jpg",
+            "question_index": 168,
+            "question": "How many indoor chairs are further away from the camera than the base of the lamp?",
+            "answer_type": "int",
+            "answer": "0"
+        },
+        {
+            "image_index": "354712.638_00010601.jpg",
+            "question_index": 169,
+            "question": "How many stickers are on the laptop?",
+            "answer_type": "int",
+            "answer": "14"
+        },
+        {
+            "image_index": "697.218_00003416.jpg",
+            "question_index": 170,
+            "question": "If the TV stand is 0.9m wide, how tall is the TV?",
+            "answer_type": "float",
+            "answer": "0.723"
+        },
+        {
+            "image_index": "77957.814_00001478.jpg",
+            "question_index": 171,
+            "question": "Excluding the sofa pillows, What is the ratio of tv remotes to pillows? Answer in a decimal.",
+            "answer_type": "float",
+            "answer": "0.667"
+        },
+        {
+            "image_index": "141369.954_00000097.jpg",
+            "question_index": 172,
+            "question": "If you placed the cofee stand horizontally, how many of the coffee stand objects would you have to place to fully cover the couch? Answer in a decimal.",
+            "answer_type": "float",
+            "answer": "2.24"
+        },
+        {
+            "image_index": "141369.954_00000097.jpg",
+            "question_index": 173,
+            "question": "What is the ratio of pet pillows to wall-lights? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "15934.368_00005379.jpg",
+            "question_index": 174,
+            "question": "If the TV is 0.2m tall, how tall is the fireplace?",
+            "answer_type": "float",
+            "answer": "0.439"
+        },
+        {
+            "image_index": "45899.622_00000877.jpg",
+            "question_index": 175,
+            "question": "Is the combined height of the TV and the TV stand greater than the width of the brick-fireplace?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "14885.473_00001957.jpg",
+            "question_index": 176,
+            "question": "Are there more plants or lights on the central chandelier?",
+            "answer_type": "str",
+            "answer": "plants"
+        },
+        {
+            "image_index": "42505.125_00001002.jpg",
+            "question_index": 177,
+            "question": "Are there enough fruits in the basket for each person at the table to get one?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "13704.122_00005378.jpg",
+            "question_index": 178,
+            "question": "Are there more wooden chairs or leather chairs? Options: {wooden, leather}",
+            "answer_type": "str",
+            "answer": "wooden"
+        },
+        {
+            "image_index": "13704.122_00005378.jpg",
+            "question_index": 179,
+            "question": "If the furthest leather chair from the camera is 0.7m tall, how tall is the cabinet at the far-right?",
+            "answer_type": "float",
+            "answer": "0.67"
+        },
+        {
+            "image_index": "3525.548_00000361.jpg",
+            "question_index": 180,
+            "question": "If the toilet paper falls direftly towards the toilet, will it hit the toilet or the floor first?",
+            "answer_type": "str",
+            "answer": "floor"
+        },
+        {
+            "image_index": "3525.548_00000361.jpg",
+            "question_index": 181,
+            "question": "If the toilet paper falls direftly towards the sink, will it hit the sink or the floor first?",
+            "answer_type": "str",
+            "answer": "sink"
+        },
+        {
+            "image_index": "48884.814_00001537.jpg",
+            "question_index": 182,
+            "question": "Are there more shelves that are occupied or empty?",
+            "answer_type": "str",
+            "answer": "occupied"
+        },
+        {
+            "image_index": "7163.177_00001718.jpg",
+            "question_index": 183,
+            "question": "Is there a child cup on the shelf above the sink that could fall straight forward and not land in the sink?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "13488.328_00000571.jpg",
+            "question_index": 184,
+            "question": "If the width of the combined cabinets to the left of the fume vent is 4.2m, how tall is the cabinet to the right of the fume vent in meters?",
+            "answer_type": "float",
+            "answer": "1.484"
+        },
+        {
+            "image_index": "143931.597_00006291.jpg",
+            "question_index": 185,
+            "question": "What is the ratio of picture frames to lamps? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "2.0"
+        },
+        {
+            "image_index": "77627.974_00005444.jpg",
+            "question_index": 186,
+            "question": "Is the combined height of the dining chair furthest from the camera and the left-most sofa-chair greater than the width of the central sofa?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "250038.502_00002924.jpg",
+            "question_index": 187,
+            "question": "If the triple of the height of the shelf in the hallway is 1.5m, how tall is the fridge?",
+            "answer_type": "float",
+            "answer": "1.778"
+        },
+        {
+            "image_index": "24335.066_00012160.jpg",
+            "question_index": 188,
+            "question": "If the square of the height of the side table is 2.25m, how tall is the couch in meters?",
+            "answer_type": "float",
+            "answer": "1.89"
+        },
+        {
+            "image_index": "207496.240_00001417.jpg",
+            "question_index": 189,
+            "question": "What is the sum of the number of dials on the stove and the number of drawer handles?",
+            "answer_type": "int",
+            "answer": "10"
+        },
+        {
+            "image_index": "191676.811_00000727.jpg",
+            "question_index": 190,
+            "question": "If the width of the sink is 0.2m, how tall is the cabinet to the left of the mirror?",
+            "answer_type": "float",
+            "answer": "0.238"
+        },
+        {
+            "image_index": "2936.215_00001862.jpg",
+            "question_index": 191,
+            "question": "Rounding to the nearest 5 minutes, what time is it on the clock? Write your answer in the format xx:yy (e.g. 08:24)",
+            "answer_type": "str",
+            "answer": "03:20"
+        },
+        {
+            "image_index": "354769.648_00014023.jpg",
+            "question_index": 192,
+            "question": "If the bottom-most frame on the left of the image were to detach from the wall and fall, would it hit the lamp first or the floor?",
+            "answer_type": "str",
+            "answer": "floor"
+        },
+        {
+            "image_index": "15677.706_00004839.jpg",
+            "question_index": 193,
+            "question": "If the combined height of the right-most wooden chair and the white desk adjacent to it is 0.9m, how tall is the bookshelf?",
+            "answer_type": "float",
+            "answer": "0.641"
+        },
+        {
+            "image_index": "92467.316_00000127.jpg",
+            "question_index": 194,
+            "question": "What is the ratio of the width of the coffee table to the height of the couch?",
+            "answer_type": "float",
+            "answer": "0.552"
+        },
+        {
+            "image_index": "15270.156_00001616.jpg",
+            "question_index": 195,
+            "question": "What is the ratio of the height of the coffee table on top of the rug to the height of the coffee table adjacent to the sofa?",
+            "answer_type": "float",
+            "answer": "0.673"
+        },
+        {
+            "image_index": "642.372_00000217.jpg",
+            "question_index": 196,
+            "question": "If the combined right-most cabinets are 2.2m tall, how tall is the central island in meters?",
+            "answer_type": "float",
+            "answer": "0.919"
+        },
+        {
+            "image_index": "4778.158_00000396.jpg",
+            "question_index": 197,
+            "question": "How many post-it notes are ?",
+            "answer_type": "int",
+            "answer": "6"
+        },
+        {
+            "image_index": "4778.158_00000396.jpg",
+            "question_index": 198,
+            "question": "What is the ratio of two times the width of the central couch to three times the length of the right-most couch?",
+            "answer_type": "float",
+            "answer": "0.822"
+        },
+        {
+            "image_index": "5998.927_00000043.jpg",
+            "question_index": 199,
+            "question": "If the sofa-chair were placed directly in front of the wooden chair, would the wooden chair still be visible?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "77614.980_00004664.jpg",
+            "question_index": 200,
+            "question": "What is taller in 3D: the chair or the cabinet?",
+            "answer_type": "str",
+            "answer": "chair"
+        },
+        {
+            "image_index": "77614.980_00004664.jpg",
+            "question_index": 201,
+            "question": "Is the surface of the table above the top of the chair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "77614.980_00004664.jpg",
+            "question_index": 202,
+            "question": "If the height of the cabinet is 2 meters, would pushing the light 0.1 meters to the left cause it to fall off the cabinet?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "77614.980_00004664.jpg",
+            "question_index": 203,
+            "question": "If the chair were placed in front of the shelves so the back of the chair covered the shelves, how many shelves would be visible?",
+            "answer_type": "int",
+            "answer": "0"
+        },
+        {
+            "image_index": "15041.777_00000457.jpg",
+            "question_index": 204,
+            "question": "What is taller in the 3D: the window or the cabinet closest to the right of the window?",
+            "answer_type": "str",
+            "answer": "window"
+        },
+        {
+            "image_index": "15041.777_00000457.jpg",
+            "question_index": 205,
+            "question": "What is the ratio of the width of the sink to the width of the open cabinet?",
+            "answer_type": "float",
+            "answer": "0.679"
+        },
+        {
+            "image_index": "15041.777_00000457.jpg",
+            "question_index": 206,
+            "question": "What is closer to the camera: The plant or the bananas?",
+            "answer_type": "str",
+            "answer": "plant"
+        },
+        {
+            "image_index": "15041.777_00000457.jpg",
+            "question_index": 207,
+            "question": "Are the number of cabinets greater than the number of windows visible?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "3214.846_00007317.jpg",
+            "question_index": 208,
+            "question": "Is the base of the fruit bowl lower than the base of the vase containing flowers?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "3214.846_00007317.jpg",
+            "question_index": 209,
+            "question": "If the 3D width of a chair is 1.50 meters, what is the 3D height of a gray cabinet?",
+            "answer_type": "float",
+            "answer": "2.403"
+        },
+        {
+            "image_index": "3214.846_00007317.jpg",
+            "question_index": 210,
+            "question": "How many chairs are further away from the camera than the fruit bowl?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "3214.846_00007317.jpg",
+            "question_index": 211,
+            "question": "Which is tallest in 3D: the fruit bowl, the flowers, or the kettle?",
+            "answer_type": "str",
+            "answer": "flowers"
+        },
+        {
+            "image_index": "62411.204_00003704.jpg",
+            "question_index": 212,
+            "question": "How many more stools would need to be stacked on the current stool to surpass the 3D height of the cabinet is it next to?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "62411.204_00003704.jpg",
+            "question_index": 213,
+            "question": "If the 3D height of the sofa is 0.3 meters, what is the 3D width of the TV?",
+            "answer_type": "float",
+            "answer": "0.46"
+        },
+        {
+            "image_index": "62411.204_00003704.jpg",
+            "question_index": 214,
+            "question": "How many cabinet handles of any color are visible?",
+            "answer_type": "int",
+            "answer": "9"
+        },
+        {
+            "image_index": "62411.204_00003704.jpg",
+            "question_index": 215,
+            "question": "If the width of the dark brown drawers are 1.0 meters, and they were pushed 0.9 meters to the right, would it fall off the top of cabinet?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "62411.204_00003704.jpg",
+            "question_index": 216,
+            "question": "Is the 3D width of the TV greater than the entire set of light brown cabinets?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "4309.239_00007257.jpg",
+            "question_index": 217,
+            "question": "Is the green chair shorter than the shelves behind it in 3D?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "4309.239_00007257.jpg",
+            "question_index": 218,
+            "question": "What is the ratio of the 3D width of the green chair to the 3D height of the gray sofa?",
+            "answer_type": "float",
+            "answer": "0.813"
+        },
+        {
+            "image_index": "4309.239_00007257.jpg",
+            "question_index": 219,
+            "question": "If the shelves fell forward, would they hit the green chair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "128907.702_00010060.jpg",
+            "question_index": 220,
+            "question": "What is the difference in meters between the 3D height of the blue chair and the 3D height of the gray chair?",
+            "answer_type": "float",
+            "answer": "0.01"
+        },
+        {
+            "image_index": "128907.702_00010060.jpg",
+            "question_index": 221,
+            "question": "What is the ratio of the 3D width of the refrigerator to the 3D height of the gray chair?",
+            "answer_type": "float",
+            "answer": "0.725"
+        },
+        {
+            "image_index": "128907.702_00010060.jpg",
+            "question_index": 222,
+            "question": "If the 3D length of the table is 12 meters, what is the 3D height of the table?",
+            "answer_type": "float",
+            "answer": "4.972"
+        },
+        {
+            "image_index": "128907.702_00010060.jpg",
+            "question_index": 223,
+            "question": "Is the distance between the blue chair and the gray chair greater than the distance between the blue chair and the refrigerator?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "3547.211_00003470.jpg",
+            "question_index": 224,
+            "question": "If the 3D width of the TV is 5 centimeters, how many centimeters shorter is the 3D width of the black refrigerator?",
+            "answer_type": "float",
+            "answer": "2.03"
+        },
+        {
+            "image_index": "3547.211_00003470.jpg",
+            "question_index": 225,
+            "question": "Is the farthest black chair from the camera closer to the camera than the brown cabinet?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "3547.211_00003470.jpg",
+            "question_index": 226,
+            "question": "What is the ratio of the 3D width of the table to the 3D width of the black chair behind it?",
+            "answer_type": "float",
+            "answer": "1.593"
+        },
+        {
+            "image_index": "3547.211_00003470.jpg",
+            "question_index": 227,
+            "question": "If multiple of the televisions were stacked upright on top of each other, how many televisions would need to be stacked to equal the 3D height of the brown cabinet?",
+            "answer_type": "float",
+            "answer": "2.002"
+        },
+        {
+            "image_index": "15256.145_00000775.jpg",
+            "question_index": 228,
+            "question": "If the lamp fell forward off the mantle towards the carpet, would it hit the table in the middle of the room?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "15256.145_00000775.jpg",
+            "question_index": 229,
+            "question": "If the 3D height of the bench that the purple pillow is resting on is 5 feet, what is the 3D width of the television in feet?",
+            "answer_type": "float",
+            "answer": "10.29"
+        },
+        {
+            "image_index": "15256.145_00000775.jpg",
+            "question_index": 230,
+            "question": "If the 3D width of the table in the middle of the room is 4 meters, how many meters shorter is the 3D width of the television than the table?",
+            "answer_type": "float",
+            "answer": "0.622"
+        },
+        {
+            "image_index": "15256.145_00000775.jpg",
+            "question_index": 231,
+            "question": "Is the television or the white bench farther from the camera?",
+            "answer_type": "str",
+            "answer": "white bench"
+        },
+        {
+            "image_index": "164039.451_00000637.jpg",
+            "question_index": 232,
+            "question": "If the washing machine on the left is 1 meter tall in 3D, what is the 3D height of the cabinet above it?",
+            "answer_type": "float",
+            "answer": "0.726"
+        },
+        {
+            "image_index": "164039.451_00000637.jpg",
+            "question_index": 233,
+            "question": "If the door on the cabinet that is slightly opened were fully opened, would it hit the paiting beside it?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "164039.451_00000637.jpg",
+            "question_index": 234,
+            "question": "How many brown knobs that are attached to a cabinet are visible ?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "164039.451_00000637.jpg",
+            "question_index": 235,
+            "question": "If the washing machine fell to the right, and its new 3D height was 1 foot, what would be the 3D height of the cabinet above it?",
+            "answer_type": "float",
+            "answer": "0.984"
+        },
+        {
+            "image_index": "48020.365_00007450.jpg",
+            "question_index": 236,
+            "question": "If the gray chair is 2 kilometers from the camera, how many meters is rightmost tan chair from the camera?",
+            "answer_type": "float",
+            "answer": "1774.06"
+        },
+        {
+            "image_index": "48020.365_00007450.jpg",
+            "question_index": 237,
+            "question": "If the 3D height of the tan chair is 2 centimeters, what is the 3D height of the dark gray cabinet closest to the ceiling?",
+            "answer_type": "float",
+            "answer": "2.144"
+        },
+        {
+            "image_index": "48020.365_00007450.jpg",
+            "question_index": 238,
+            "question": "If the white door swung closed, would it hit the tan chair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "48020.365_00007450.jpg",
+            "question_index": 239,
+            "question": "How many glass panes are on the white door?",
+            "answer_type": "int",
+            "answer": "9"
+        },
+        {
+            "image_index": "32262.422_00000517.jpg",
+            "question_index": 240,
+            "question": "How many chairs are there?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "32262.422_00000517.jpg",
+            "question_index": 241,
+            "question": "How many chairs are further away from the camera than the washing machine?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "32262.422_00000517.jpg",
+            "question_index": 242,
+            "question": "If the 3D width of the table is 30 feet, what is the 3D height of the washing machine?",
+            "answer_type": "float",
+            "answer": "23.46"
+        },
+        {
+            "image_index": "32262.422_00000517.jpg",
+            "question_index": 243,
+            "question": "What is the ratio of the total 3D width of the white cabinets on the right to the 3D height of the chair closest to the camera?",
+            "answer_type": "float",
+            "answer": "1.078"
+        },
+        {
+            "image_index": "1143.065_00000343.jpg",
+            "question_index": 244,
+            "question": "How many metal cabinet handles are fully visible?",
+            "answer_type": "int",
+            "answer": "11"
+        },
+        {
+            "image_index": "1143.065_00000343.jpg",
+            "question_index": 245,
+            "question": "If the 3D width of the dishwasher is 6 inches, what is the 3D length of the dining table in inches?",
+            "answer_type": "float",
+            "answer": "14.349"
+        },
+        {
+            "image_index": "1143.065_00000343.jpg",
+            "question_index": 246,
+            "question": "What is the ratio of the 3D width of the gray cabinet below the white kettle to the 3D height of one of the black chairs?",
+            "answer_type": "float",
+            "answer": "0.607"
+        },
+        {
+            "image_index": "1143.065_00000343.jpg",
+            "question_index": 247,
+            "question": "If the 3D height of the dining table is 5 feet, how much higher is the surface of the brown countertop than the surface of the dining table in feet?",
+            "answer_type": "float",
+            "answer": "1.374"
+        },
+        {
+            "image_index": "7375.441_00006700.jpg",
+            "question_index": 248,
+            "question": "What is the ratio of the 3D length of the stovetop to the 3D height of the oven?",
+            "answer_type": "float",
+            "answer": "0.626"
+        },
+        {
+            "image_index": "7375.441_00006700.jpg",
+            "question_index": 249,
+            "question": "If the cabinet above the stovetop fell vertically downwards, would the majority of the cabinet be covering the stovetop?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "7375.441_00006700.jpg",
+            "question_index": 250,
+            "question": "If the 3D length of the stovetop is 6 feet, what is the 3D width of one of the white drawers?",
+            "answer_type": "float",
+            "answer": "5.352"
+        },
+        {
+            "image_index": "7375.441_00006700.jpg",
+            "question_index": 251,
+            "question": "If the paper towel holder fell towards the camera, would any of it hang over the edge of the countertop?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "133467.378_00001717.jpg",
+            "question_index": 252,
+            "question": "Assuming no collisions and the red chair to be 1 mile tall in 3D, how many feet would the red chair need to be raised to match the 3D height of the chair to its left?",
+            "answer_type": "float",
+            "answer": "1262.134"
+        },
+        {
+            "image_index": "133467.378_00001717.jpg",
+            "question_index": 253,
+            "question": "If the 3D width of the dishwasher is 2 inches, what is the 3D width of the shelves above it?",
+            "answer_type": "float",
+            "answer": "1.782"
+        },
+        {
+            "image_index": "133467.378_00001717.jpg",
+            "question_index": 254,
+            "question": "How many of the dishwashers would need to be stacked on top of each other to match the 3D height of the black chair on the left?",
+            "answer_type": "float",
+            "answer": "1.06"
+        },
+        {
+            "image_index": "133467.378_00001717.jpg",
+            "question_index": 255,
+            "question": "How many bottles are visible on the countertop?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "117572.241_00000517.jpg",
+            "question_index": 256,
+            "question": "How many of the gray tables would need to be stacked on top of each other to match the 3D height of the red sofa?",
+            "answer_type": "float",
+            "answer": "2.428"
+        },
+        {
+            "image_index": "117572.241_00000517.jpg",
+            "question_index": 257,
+            "question": "How many red pillows are there?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "117572.241_00000517.jpg",
+            "question_index": 258,
+            "question": "If the red sofa is 5 meters tall in 3D, what is the difference in 3D height between the red sofa and the tan sofa?",
+            "answer_type": "float",
+            "answer": "0.298"
+        },
+        {
+            "image_index": "117572.241_00000517.jpg",
+            "question_index": 259,
+            "question": "Is the rightmost red pillow or the lamp farther away from the camera?",
+            "answer_type": "str",
+            "answer": "lamp"
+        },
+        {
+            "image_index": "855.184_00002438.jpg",
+            "question_index": 260,
+            "question": "If the knife block fell to the left, would it hit the stove?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "855.184_00002438.jpg",
+            "question_index": 261,
+            "question": "If the 3D length of the sink is 20 meters, what is the 3D height of the oven?",
+            "answer_type": "float",
+            "answer": "37.775"
+        },
+        {
+            "image_index": "855.184_00002438.jpg",
+            "question_index": 262,
+            "question": "What is the ratio of the 3D height of the cabinet above the countertop to the 3D height of the cabinet below it?",
+            "answer_type": "float",
+            "answer": "0.857"
+        },
+        {
+            "image_index": "855.184_00002438.jpg",
+            "question_index": 263,
+            "question": "How many metal cabinet handles are facing towards the camera?",
+            "answer_type": "int",
+            "answer": "4"
+        },
+        {
+            "image_index": "126981.906_00002978.jpg",
+            "question_index": 264,
+            "question": "Is the white sofa chair to the right of the lamp farther away from the camera than the red sofa closest to the camera?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "126981.906_00002978.jpg",
+            "question_index": 265,
+            "question": "If the 3D width of the white chair with the red jacket on it is 0.5 feet, what is the 3D height of the sofa farthest from the camera?",
+            "answer_type": "float",
+            "answer": "0.874"
+        },
+        {
+            "image_index": "126981.906_00002978.jpg",
+            "question_index": 266,
+            "question": "If the white sofa chair that is farthest from the camera is 3 meters tall, how much taller in meters is the red sofa to the right of it?",
+            "answer_type": "float",
+            "answer": "0.27"
+        },
+        {
+            "image_index": "126981.906_00002978.jpg",
+            "question_index": 267,
+            "question": "Around the table, what is the ratio of white chairs with jackets on them to the number of white chairs without jackets on them?",
+            "answer_type": "float",
+            "answer": "0.75"
+        },
+        {
+            "image_index": "98105.193_00005679.jpg",
+            "question_index": 268,
+            "question": "How many chairs are there?",
+            "answer_type": "int",
+            "answer": "8"
+        },
+        {
+            "image_index": "98105.193_00005679.jpg",
+            "question_index": 269,
+            "question": "If the 3D width of the chair closest to the camera is 4 inches, what is the 3D length of the table?",
+            "answer_type": "float",
+            "answer": "18.918"
+        },
+        {
+            "image_index": "98105.193_00005679.jpg",
+            "question_index": 270,
+            "question": "What is the ratio of the 3D width of the table to the 3D height of the white sofa?",
+            "answer_type": "float",
+            "answer": "1.312"
+        },
+        {
+            "image_index": "98105.193_00005679.jpg",
+            "question_index": 271,
+            "question": "How many white chairs are farther away from the camera than the white sofa?",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "77416.579_00004196.jpg",
+            "question_index": 272,
+            "question": "If the 3D height of a gray chair is 5 feet, what is the 3D height of a black chair?",
+            "answer_type": "float",
+            "answer": "4.872"
+        },
+        {
+            "image_index": "77416.579_00004196.jpg",
+            "question_index": 273,
+            "question": "If the gray chairs were laid down end to end, how many would be required to match the 3D width of the wooden table?",
+            "answer_type": "float",
+            "answer": "2.177"
+        },
+        {
+            "image_index": "77416.579_00004196.jpg",
+            "question_index": 274,
+            "question": "What is the ratio of the 3D width of the gray horizontal cabinet on the right to the 3D width of the gray horizontal cabinet on the left?",
+            "answer_type": "float",
+            "answer": "0.686"
+        },
+        {
+            "image_index": "77416.579_00004196.jpg",
+            "question_index": 275,
+            "question": "How many objects are on the white countertop on the left?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "3271.856_00010739.jpg",
+            "question_index": 276,
+            "question": "If the lamp fell from the ceiling, would it hit the sink?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "3271.856_00010739.jpg",
+            "question_index": 277,
+            "question": "If the 3D width of the sink is 4 meters, what is the length of the stove top?",
+            "answer_type": "float",
+            "answer": "0.811"
+        },
+        {
+            "image_index": "3271.856_00010739.jpg",
+            "question_index": 278,
+            "question": "Is the kettle farther away from the camera than the chicken?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "3271.856_00010739.jpg",
+            "question_index": 279,
+            "question": "Is the stove higher in elevation than the sink?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "79024.651_00002018.jpg",
+            "question_index": 280,
+            "question": "If the 3D height of the fireplace is 9.20 meters, what is the 3D height of the chair in meters?",
+            "answer_type": "float",
+            "answer": "1.851"
+        },
+        {
+            "image_index": "79024.651_00002018.jpg",
+            "question_index": 281,
+            "question": "How many objects of the same 3D height as the chair would I need to make a structure as tall in 3D as the fireplace?",
+            "answer_type": "float",
+            "answer": "4.969"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 282,
+            "question": "If the 3D height of the table below the lamp is 8.90 meters, what is the 3D height of the bookcase in meters?",
+            "answer_type": "float",
+            "answer": "30.006"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 283,
+            "question": "What is the ratio of the 3D height of the sofa to the 3D height of the table below the lamp?",
+            "answer_type": "float",
+            "answer": "1.259"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 284,
+            "question": "How many objects of the same height as the sofa would I need to make a structure as tall as the bookcase?",
+            "answer_type": "float",
+            "answer": "2.679"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 285,
+            "question": "What is taller in 3D: the lamp or the small table below it? Options: {lamp, table}",
+            "answer_type": "str",
+            "answer": "table"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 286,
+            "question": "What is closer to the camera: the lamp, the bookcase or the sofa?",
+            "answer_type": "str",
+            "answer": "lamp"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 287,
+            "question": "If the 3D height of the coffee table is 3.20 meters, what is the 3D height of the tv in meters?",
+            "answer_type": "float",
+            "answer": "5.203"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 288,
+            "question": "What is the ratio of the 3D height of the fireplace to the 3D height of the coffe table?",
+            "answer_type": "float",
+            "answer": "3.118"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 289,
+            "question": "How many objects of the same height as the frontmost sofa would I need to make a structure as tall as the tv and fireplace combined?",
+            "answer_type": "float",
+            "answer": "2.303"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 290,
+            "question": "How many coffee tables would I have to place next to one another to make a structure as long as the sofa?",
+            "answer_type": "float",
+            "answer": "2.442"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 291,
+            "question": "If the 3D height of the fireplace is 2m, what is the radius of the mirror above it?",
+            "answer_type": "float",
+            "answer": "0.553"
+        },
+        {
+            "image_index": "76304.249_00001255.jpg",
+            "question_index": 292,
+            "question": "If the 3D height of the sofa is 0.30 meters, what is the combined 3D height of the tv and the tv stand in meters?",
+            "answer_type": "float",
+            "answer": "0.571"
+        },
+        {
+            "image_index": "76304.249_00001255.jpg",
+            "question_index": 293,
+            "question": "Which is taller in 3D: the sofa or the tv and the tv stand combined? Options: {sofa, combined tv and tv stand}",
+            "answer_type": "str",
+            "answer": "the combined tv and tv stand"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 294,
+            "question": "If the 3D height of the sofa is 5.80 meters, what is the 3D height of the dining table in meters?",
+            "answer_type": "float",
+            "answer": "5.626"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 295,
+            "question": "What is the ratio of the 3D height of the coffee table to the 3D height of the dining chair?",
+            "answer_type": "float",
+            "answer": "0.495"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 296,
+            "question": "How many objects of the same height as the coffeetable would I need to make a structure as tall as the dining table and the dining chair combined?",
+            "answer_type": "float",
+            "answer": "3.873"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 297,
+            "question": "Which object has the largest 3D height: the sofa, the dining chair, or coffee table?",
+            "answer_type": "str",
+            "answer": "dining chair"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 298,
+            "question": "What is closer to the camera: the dining chair or the sofa?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 299,
+            "question": "How many objects of the same size as the dining chair would I have to place next to each other to make a structure as long in 3D as the 3D length of the sofa?",
+            "answer_type": "float",
+            "answer": "4.103"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 300,
+            "question": "If the 3D height of the leftmost black armchair is 4.80 meters, what is the 3D height of the sofa closest to the camera in meters?",
+            "answer_type": "float",
+            "answer": "4.571"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 301,
+            "question": "If the 3D length of the table closest to the camera is 18.20 meters, what is the length of the leftmost black armchair in meters?",
+            "answer_type": "float",
+            "answer": "10.34"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 302,
+            "question": "What is the ratio of the 3D height of the coffetable behind the sofa closest to the camera to the 3D height of the table closest to the camera?",
+            "answer_type": "float",
+            "answer": "0.853"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 303,
+            "question": "How many objects of the same height as the frontmost sofa would I need to make a structure as tall as the fireplace?",
+            "answer_type": "float",
+            "answer": "2.249"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 304,
+            "question": "Which object has the largest length in 3D: the sofa closest to the camera or the table closest to the camera? Options: {sofa, table}",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 305,
+            "question": "Which object has the largest 3D height: the leftmost black armchair or the fireplace?",
+            "answer_type": "str",
+            "answer": "fireplace"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 306,
+            "question": "What is closer to the camera: the fireplace or the sofa?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 307,
+            "question": "How many objects of the same size as the leftmost black armchair would I have to place next to each other to make a structure as long in 3D as the 3D length of the fireplace and the frontmost sofa combined?",
+            "answer_type": "float",
+            "answer": "5.183"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 308,
+            "question": "If the 3D height of the sofa is 32.30 meters, what is the 3D height of the barstool in meters?",
+            "answer_type": "float",
+            "answer": "27.875"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 309,
+            "question": "What is the ratio of the 3D height of the kitchen cabinet to the 3D height of the sofa?",
+            "answer_type": "float",
+            "answer": "0.941"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 310,
+            "question": "How many objects of the same height as the sofa would I need to make a structure as tall as the barstool and the kitchen cabinet combined?",
+            "answer_type": "float",
+            "answer": "1.804"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 311,
+            "question": "What is taller in 3D: the sofa, the barstool or the kitchen cabinet?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 312,
+            "question": "What is closer to the camera: the sofa, the barstool or the kitchen cabinet?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 313,
+            "question": "How many objects of the same size as the barstool would I have to line next to each other to make a structure as long in 3D as the 3D length of the sofa?",
+            "answer_type": "float",
+            "answer": "2.976"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 314,
+            "question": "If the 3D height of the wooden chair is 3.80 meters, what is the 3D height of the table in meters?",
+            "answer_type": "float",
+            "answer": "4.011"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 315,
+            "question": "If the length in 3D of the gray armchair is 4.80 meters, what is the length of the wooden chair in meters?",
+            "answer_type": "float",
+            "answer": "2.696"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 316,
+            "question": "What is the ratio of the 3D height of the table to the 3D height of the two chairs combined?",
+            "answer_type": "float",
+            "answer": "0.466"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 317,
+            "question": "How many objects of the same height as the wooden chair would I need to make a structure as tall as the table and the gray armchair combined?",
+            "answer_type": "float",
+            "answer": "2.321"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 318,
+            "question": "What is closer to the camera: the wooden armchair or the table? Options: {armchair, table}",
+            "answer_type": "str",
+            "answer": "table"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 319,
+            "question": "How many objects of the same size as the wooden chair would I have to place next to each other to make a structure as long in 3D as the 3D length of the gray armchair?",
+            "answer_type": "float",
+            "answer": "1.781"
+        },
+        {
+            "image_index": "77621.977_00005084.jpg",
+            "question_index": 320,
+            "question": "If the 3D height of the two-seat sofa is 0.50 meters, what is the 3D height of the dining table in meters?",
+            "answer_type": "float",
+            "answer": "0.437"
+        },
+        {
+            "image_index": "77621.977_00005084.jpg",
+            "question_index": 321,
+            "question": "How many objects of the same 3D height as the dining chair would I need to make a structure as tall in 3D as the two-seat sofa?",
+            "answer_type": "float",
+            "answer": "0.992"
+        },
+        {
+            "image_index": "4457.972_00003938.jpg",
+            "question_index": 322,
+            "question": "If the 3D height of the white stool is 1.80 meters, what is the 3D height of the table in meters?",
+            "answer_type": "float",
+            "answer": "2.928"
+        },
+        {
+            "image_index": "4457.972_00003938.jpg",
+            "question_index": 323,
+            "question": "How many objects of the same 3D height as the chair would I need to make a structure as tall in 3D as the table?",
+            "answer_type": "float",
+            "answer": "1.627"
+        },
+        {
+            "image_index": "4457.972_00003938.jpg",
+            "question_index": 324,
+            "question": "Which object is further in 3D from the camera: the teddy bear, the chair or the tray?",
+            "answer_type": "str",
+            "answer": "teddy bear"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 325,
+            "question": "If the 3D height of the tv is 3.20 meters, what is the 3D height of the sofa in meters?",
+            "answer_type": "float",
+            "answer": "8.308"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 326,
+            "question": "If the 3D length of the sofa is 3.20 meters, what is the 3D length of the tv in meters?",
+            "answer_type": "float",
+            "answer": "1.256"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 327,
+            "question": "How many objects of the same height as the tv would I need to make a structure as tall as the sofa?",
+            "answer_type": "float",
+            "answer": "2.596"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 328,
+            "question": "Which object has the largest 3D length: the sofa or the tv?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 329,
+            "question": "Which object has the largest 3D height: the tv or the sofa?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 330,
+            "question": "What is closer to the camera: the tv or the sofa?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 331,
+            "question": "How many objects of the same size as the tv would I have to place next to each other to make a structure as long in 3D as the 3D length of the sofa?",
+            "answer_type": "float",
+            "answer": "2.548"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 332,
+            "question": "If the 3D height of the tv is 4.20 meters, what is the 3D height of the tv stand in meters?",
+            "answer_type": "float",
+            "answer": "1.389"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 333,
+            "question": "What is the ratio of the 3D height of the ottoman to the 3D height of the tv?",
+            "answer_type": "float",
+            "answer": "0.385"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 334,
+            "question": "How many objects of the same height as the ottoman would I need to make a structure as tall as the tv and the tv stand combined?",
+            "answer_type": "float",
+            "answer": "3.457"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 335,
+            "question": "Which object has the largest 3D height: the tv, the tv stand, or the ottoman?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 336,
+            "question": "What is closer to the camera: the ottoman, or the plant?",
+            "answer_type": "str",
+            "answer": "ottoman"
+        },
+        {
+            "image_index": "62384.038_00013182.jpg",
+            "question_index": 337,
+            "question": "If the 3D height of the righmost sofa is 3.00 meters, what is the 3D height of the frontmost table in meters?",
+            "answer_type": "float",
+            "answer": "1.54"
+        },
+        {
+            "image_index": "62384.038_00013182.jpg",
+            "question_index": 338,
+            "question": "What is the ratio of the 3D height of the frontmost table to the 3D height of the two sofas combined?",
+            "answer_type": "float",
+            "answer": "0.252"
+        },
+        {
+            "image_index": "62384.038_00013182.jpg",
+            "question_index": 339,
+            "question": "How many objects of the same 3D height as the rightmost sofa would I need to make a structure as tall in 3D as the two tables combined?",
+            "answer_type": "float",
+            "answer": "1.104"
+        },
+        {
+            "image_index": "62281.028_00006999.jpg",
+            "question_index": 340,
+            "question": "If the 3D height of the chair is 2.20 meters, what is the 3D height of the fridge in meters?",
+            "answer_type": "float",
+            "answer": "3.956"
+        },
+        {
+            "image_index": "62281.028_00006999.jpg",
+            "question_index": 341,
+            "question": "What is the ratio of the 3D length of the fridge to the 3D height of the chair?",
+            "answer_type": "float",
+            "answer": "0.759"
+        },
+        {
+            "image_index": "62281.028_00006999.jpg",
+            "question_index": 342,
+            "question": "How many objects of the same height as the chair would I need to make a structure as tall as the kitchen counter?",
+            "answer_type": "float",
+            "answer": "0.8"
+        },
+        {
+            "image_index": "62281.028_00006999.jpg",
+            "question_index": 343,
+            "question": "Which object is closer to the camera: the furthest chair from the camera or the fridge? Options: {chair, fridge}",
+            "answer_type": "str",
+            "answer": "chair"
+        },
+        {
+            "image_index": "41071.234_00000577.jpg",
+            "question_index": 344,
+            "question": "If the 3D height of the sofa is 0.30 meters, what is the 3D height of the cabinet behind it in meters?",
+            "answer_type": "float",
+            "answer": "0.226"
+        },
+        {
+            "image_index": "41071.234_00000577.jpg",
+            "question_index": 345,
+            "question": "What is the ratio of the 3D height of the cabinet to the 3D height of the sofa?",
+            "answer_type": "float",
+            "answer": "1.581"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 346,
+            "question": "If the 3D height of the tv is 2.90 meters, what is the 3D height of the chair in meters?",
+            "answer_type": "float",
+            "answer": "5.363"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 347,
+            "question": "What is the ratio of the 3D height of the tv to the 3D height of the tv stand?",
+            "answer_type": "float",
+            "answer": "1.014"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 348,
+            "question": "How many objects of the same height as the tv stand would I need to make a structure as tall as the tv and the tv stand combined?",
+            "answer_type": "float",
+            "answer": "1.986"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 349,
+            "question": "Which object has the largest 3D height: the tv, the tv stand, or the mirror?",
+            "answer_type": "str",
+            "answer": "mirror"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 350,
+            "question": "What is closer to the camera: the tv or the lamp?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "84676.551_00001717.jpg",
+            "question_index": 351,
+            "question": "How many objects of the same size as the tv would I have to place next to each other to make a structure as long in 3D as the 3D length of the tv stand?",
+            "answer_type": "float",
+            "answer": "2.73"
+        },
+        {
+            "image_index": "1382.048_00005079.jpg",
+            "question_index": 352,
+            "question": "If the 3D height of the table behind the fireplace is 7.30 meters, what is the 3D height of the fireplace in meters?",
+            "answer_type": "float",
+            "answer": "16.334"
+        },
+        {
+            "image_index": "1382.048_00005079.jpg",
+            "question_index": 353,
+            "question": "How many objects of the same 3D height as the table behind the fireplace would I need to make a structure as tall in 3D as the sofa behind the coffee table?",
+            "answer_type": "float",
+            "answer": "1.484"
+        },
+        {
+            "image_index": "1382.048_00005079.jpg",
+            "question_index": 354,
+            "question": "How many objects of the same volume as table behind the fireplace would I need to make an object of the same volume as coffee table?",
+            "answer_type": "float",
+            "answer": "2.049"
+        },
+        {
+            "image_index": "1382.048_00005079.jpg",
+            "question_index": 355,
+            "question": "If I stacked two coffee tables on top of each other, how much taller in 3D would the structure be compared to the 3D height of the sofa?",
+            "answer_type": "float",
+            "answer": "1.156"
+        },
+        {
+            "image_index": "1382.048_00005079.jpg",
+            "question_index": 356,
+            "question": "Which object is closer to the camera: the sofa or the fireplace? Options: {sofa, fireplace}",
+            "answer_type": "str",
+            "answer": "fireplace"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 357,
+            "question": "If the 3D height of the leftmost chair is 3.20 meters, what is the 3D height of the ottoman in meters?",
+            "answer_type": "float",
+            "answer": "1.439"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 358,
+            "question": "What is the ratio of the 3D height of the ottoman to the 3D height of the armchair furthest from the camera?",
+            "answer_type": "float",
+            "answer": "0.516"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 359,
+            "question": "How many objects of the same height as the ottoman would I need to make a structure as tall as the leftmost armchair and the tv combined?",
+            "answer_type": "float",
+            "answer": "3.57"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 360,
+            "question": "Which object has the largest 3D length: the ottoman, or the tv?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 361,
+            "question": "What is closer to the camera: the tv or the armchair furthest from the camera? Options: {tv, armchair}",
+            "answer_type": "str",
+            "answer": "armchair"
+        },
+        {
+            "image_index": "7936.252_00001418.jpg",
+            "question_index": 362,
+            "question": "How many objects of the same size as the ottoman would I have to place next to each other to make a structure as long in 3D as the 3D length of the tv?",
+            "answer_type": "float",
+            "answer": "1.886"
+        },
+        {
+            "image_index": "24033.652_00003241.jpg",
+            "question_index": 363,
+            "question": "If the 3D height of the righmost wooden coffeetable is 6.20 meters, what is the 3D height of the tv in meters?",
+            "answer_type": "float",
+            "answer": "9.549"
+        },
+        {
+            "image_index": "24033.652_00003241.jpg",
+            "question_index": 364,
+            "question": "What is the ratio of the 3D height of the tv to the 3D height of the two wooden tables combined?",
+            "answer_type": "float",
+            "answer": "0.619"
+        },
+        {
+            "image_index": "24033.652_00003241.jpg",
+            "question_index": 365,
+            "question": "How many objects of the same 3D height as the rightmost wooden coffeetable would I need to make a structure as tall in 3D as the tv and leftmost wooden table combined?",
+            "answer_type": "float",
+            "answer": "3.028"
+        },
+        {
+            "image_index": "58791.549_00000517.jpg",
+            "question_index": 366,
+            "question": "If the 3D height of the white cabinet to the right of the tv is 5.60 meters, what is the 3D height of the tv in meters?",
+            "answer_type": "float",
+            "answer": "2.987"
+        },
+        {
+            "image_index": "58791.549_00000517.jpg",
+            "question_index": 367,
+            "question": "How many objects of the same 3D height as the white cabinet below the tv would I need to make a structure as tall in 3D as the tv?",
+            "answer_type": "float",
+            "answer": "1.231"
+        },
+        {
+            "image_index": "58791.549_00000517.jpg",
+            "question_index": 368,
+            "question": "How many times is the 3D length of the white cabinet below the tv larger than the 3D height of the white cabinet to the right of the tv?",
+            "answer_type": "float",
+            "answer": "1.417"
+        },
+        {
+            "image_index": "58791.549_00000517.jpg",
+            "question_index": 369,
+            "question": "Which object is further from the camera: the tv or the ceiling lamp?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "91233.455_00000277.jpg",
+            "question_index": 370,
+            "question": "If the 3D height of the fireplace is 2.80 meters, what is the 3D height of the coffee table in meters?",
+            "answer_type": "float",
+            "answer": "0.961"
+        },
+        {
+            "image_index": "91233.455_00000277.jpg",
+            "question_index": 371,
+            "question": "How many objects of the same 3D height as the sofa would I need to make a structure as tall in 3D as the fireplace?",
+            "answer_type": "float",
+            "answer": "1.35"
+        },
+        {
+            "image_index": "91233.455_00000277.jpg",
+            "question_index": 372,
+            "question": "How many armchairs are there in front of the coffee table?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "91233.455_00000277.jpg",
+            "question_index": 373,
+            "question": "How many tvs would I need to align next to each other to make a structure as long as the sofa?",
+            "answer_type": "float",
+            "answer": "1.866"
+        },
+        {
+            "image_index": "15255.145_00000715.jpg",
+            "question_index": 374,
+            "question": "If the 3D height of the cabinet below the tv is 8.20 meters, what is the 3D height of the yellow ottoman in meters?",
+            "answer_type": "float",
+            "answer": "2.991"
+        },
+        {
+            "image_index": "15255.145_00000715.jpg",
+            "question_index": 375,
+            "question": "How many objects of the same 3D height as the yellow ottoman would I need to make a structure as tall in 3D as the tv?",
+            "answer_type": "float",
+            "answer": "1.73"
+        },
+        {
+            "image_index": "15255.145_00000715.jpg",
+            "question_index": 376,
+            "question": "Which object is further from the camera: the tv or the fireplace?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "15255.145_00000715.jpg",
+            "question_index": 377,
+            "question": "How many times is the 3D length of the tv smaller than the 3D height of the fireplace?",
+            "answer_type": "float",
+            "answer": "0.761"
+        },
+        {
+            "image_index": "2761.065_00000456.jpg",
+            "question_index": 378,
+            "question": "If the 3D height of the tall cabinet is 4.00 meters, what is the 3D height of the chair in meters?",
+            "answer_type": "float",
+            "answer": "2.75"
+        },
+        {
+            "image_index": "2761.065_00000456.jpg",
+            "question_index": 379,
+            "question": "What is the ratio of the 3D height of the chair to the 3D height of the cabinet and table combined?",
+            "answer_type": "float",
+            "answer": "0.497"
+        },
+        {
+            "image_index": "2761.065_00000456.jpg",
+            "question_index": 380,
+            "question": "How many objects of the same 3D height as the short table would I need to make a structure as tall in 3D as the chair and tall cabinet combined?",
+            "answer_type": "float",
+            "answer": "4.397"
+        },
+        {
+            "image_index": "2761.065_00000456.jpg",
+            "question_index": 381,
+            "question": "Which object has the largest 3D height: the chair, the table or the cabinet?",
+            "answer_type": "str",
+            "answer": "cabinet"
+        },
+        {
+            "image_index": "2761.065_00000456.jpg",
+            "question_index": 382,
+            "question": "If the tall cabinet fell to the left, would it hit the chair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 383,
+            "question": "If the 3D height of the table below the tv is 3.20 meters, what is the 3D height of the red armchair in meters?",
+            "answer_type": "float",
+            "answer": "5.216"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 384,
+            "question": "What is the ratio of the 3D length of the tv to the 3D height of the red armchair?",
+            "answer_type": "float",
+            "answer": "1.189"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 385,
+            "question": "How many objects of the same height as the rightmost cabinet table would I need to make a structure as tall as the sofa and tv combined?",
+            "answer_type": "float",
+            "answer": "1.875"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 386,
+            "question": "How many cabinet tables would I have to place next to one another to make a structure as long as the table below the tv?",
+            "answer_type": "float",
+            "answer": "4.084"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 387,
+            "question": "How many objects of the same height as the red armchair would I need to stack to make a structure as long as the table below the tv?",
+            "answer_type": "float",
+            "answer": "2.108"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 388,
+            "question": "If the 3D height of the side table is 1.40 meters, what is the 3D height of the fireplace in meters?",
+            "answer_type": "float",
+            "answer": "3.733"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 389,
+            "question": "What is the ratio of the 3D length of the sofa to the 3D height of the fireplace?",
+            "answer_type": "float",
+            "answer": "1.093"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 390,
+            "question": "What is the ratio of the 3D length of the sofa to the 3D height of the fireplace?",
+            "answer_type": "float",
+            "answer": "1.093"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 391,
+            "question": "How many objects of the same height as the side table would I need to make a structure as tall as the fireplace?",
+            "answer_type": "float",
+            "answer": "2.666"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 392,
+            "question": "The length of the sofa is equal to the height of how many stacked side tables?",
+            "answer_type": "float",
+            "answer": "2.916"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 393,
+            "question": "Which object is closer to the camera: the fireplace or the sofa?",
+            "answer_type": "str",
+            "answer": "sofa"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 394,
+            "question": "If the 3D height of the nightstand is 2.50 meters, what is the 3D height of the tv in meters?",
+            "answer_type": "float",
+            "answer": "1.741"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 395,
+            "question": "What is the ratio of the 3D height of the furthest most dresser to the dresser closest to the camera?",
+            "answer_type": "float",
+            "answer": "0.723"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 396,
+            "question": "How many objects of the same height as the armchair would I need to make a structure as tall as the dresser closest to the camera?",
+            "answer_type": "float",
+            "answer": "1.272"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 397,
+            "question": "How many objects of the same height as the nightstand would I need to make a structure as tall as the dresser furthest from the camera?",
+            "answer_type": "float",
+            "answer": "1.41"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 398,
+            "question": "Which object has the largest 3D height: the tv, the dresser, the armchair or the nighstand?",
+            "answer_type": "str",
+            "answer": "dresser"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 399,
+            "question": "What is closer to the camera: the dresser, the nightstand or the armchair?",
+            "answer_type": "str",
+            "answer": "nightstand"
+        },
+        {
+            "image_index": "4603.707_00002077.jpg",
+            "question_index": 400,
+            "question": "If the 3D height of the golden cabinet is 3.80 meters, what is the 3D height of the brown armchair in meters?",
+            "answer_type": "float",
+            "answer": "3.901"
+        },
+        {
+            "image_index": "4603.707_00002077.jpg",
+            "question_index": 401,
+            "question": "How many objects of the same size as the brown armchair would I have to place next to each other to make a structure as long in 3D as the 3D length of golden cabinet?",
+            "answer_type": "float",
+            "answer": "1.922"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 402,
+            "question": "If the 3D height of the fridge is 4.80 meters, what is the 3D height of the chair in meters?",
+            "answer_type": "float",
+            "answer": "2.426"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 403,
+            "question": "How many objects of the same 3D height as the microwave would I need to make a structure as tall in 3D as the chair?",
+            "answer_type": "float",
+            "answer": "1.888"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 404,
+            "question": "Is the microwave closer to the chair or to the sink in 3D?",
+            "answer_type": "str",
+            "answer": "chair"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 405,
+            "question": "Which is taller in 3D: the fridge or the table and the chair stacked on top of each other?",
+            "answer_type": "str",
+            "answer": "fridge"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 406,
+            "question": "Is the 3D width of the table larger than the height of three stacked microwaves?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 407,
+            "question": "If the silver cylindrical ceiling lamp fell, would it hit the chair, the plant or the table?",
+            "answer_type": "str",
+            "answer": "table"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 408,
+            "question": "What is the total number of dining chairs and dining tables that are behind the sofa?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 409,
+            "question": "If I have to walk 3.2 meters to get to the lamp, how many meters do I have to walk to get to the bookcase?",
+            "answer_type": "float",
+            "answer": "14.4"
+        },
+        {
+            "image_index": "12447.023_00000096.jpg",
+            "question_index": 410,
+            "question": "What is shorter in 3D:  the lamp or the small table below it?",
+            "answer_type": "str",
+            "answer": "lamp"
+        },
+        {
+            "image_index": "3204.945_00000463.jpg",
+            "question_index": 411,
+            "question": "If I have to walk 2.2 meters to get to the closest pillow, how many meters do I have to walk to get to the fireplace?",
+            "answer_type": "float",
+            "answer": "7.7"
+        },
+        {
+            "image_index": "76304.249_00001255.jpg",
+            "question_index": 412,
+            "question": "If I have to walk 8.2 meters to get to the closest potted plant, how many meters do I have to walk to get to the tv?",
+            "answer_type": "float",
+            "answer": "9.5"
+        },
+        {
+            "image_index": "351273.330_00003290.jpg",
+            "question_index": 413,
+            "question": "What is shorter in 3D: the hello-kitty pillow or the shortest table? Options: {pillow, table}",
+            "answer_type": "str",
+            "answer": "pillow"
+        },
+        {
+            "image_index": "61867.275_00003284.jpg",
+            "question_index": 414,
+            "question": "If I have to walk 2.6 meters to get to the closest table, how many meters do I have to walk to get to the fireplace?",
+            "answer_type": "float",
+            "answer": "10.4"
+        },
+        {
+            "image_index": "463.264_00004969.jpg",
+            "question_index": 415,
+            "question": "If I have to walk 3.2 meters to get to the leftmost lamp, how many meters do I have to walk to get to the closest barstool?",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "6065.917_00004064.jpg",
+            "question_index": 416,
+            "question": "What is the height-to-width ratio of the painting farthest from the camera? Answer with a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "479860.547_00004293.jpg",
+            "question_index": 417,
+            "question": "What is closest to the camera: the bookcase or the tv?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "23405.836_00002101.jpg",
+            "question_index": 418,
+            "question": "What has a larger 3D height: the largest table or the tv?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "58791.549_00000517.jpg",
+            "question_index": 419,
+            "question": "If the ceiling lamp fell vertically would it hit the cabinet?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "91233.455_00000277.jpg",
+            "question_index": 420,
+            "question": "Which object has the largest height-to-width ratio: the tv or the leftmost paining?",
+            "answer_type": "str",
+            "answer": "painting"
+        },
+        {
+            "image_index": "100592.766_00001489.jpg",
+            "question_index": 421,
+            "question": "Which object has the largest height-to-width ratio: the painting or the cabinet below it?",
+            "answer_type": "str",
+            "answer": "cabinet"
+        },
+        {
+            "image_index": "104078.645_00000043.jpg",
+            "question_index": 422,
+            "question": "If I have to walk 2.6 meters to get to the lamp, how many meters do I have to walk to get to the fireplace?",
+            "answer_type": "float",
+            "answer": "5.5"
+        },
+        {
+            "image_index": "51440.558_00000757.jpg",
+            "question_index": 423,
+            "question": "What object has the largest width-to-height ratio: the tv or the chair?",
+            "answer_type": "str",
+            "answer": "tv"
+        },
+        {
+            "image_index": "14865.465_00000756.jpg",
+            "question_index": 424,
+            "question": "Are there more remote controllers or silver cylindrical ceiling lamps in front of the chair? Options: {remotes, lamps}",
+            "answer_type": "str",
+            "answer": "remotes"
+        },
+        {
+            "image_index": "7120.747_00004317.jpg",
+            "question_index": 425,
+            "question": "Are there more cups than more chairs behind the table?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "7120.747_00004317.jpg",
+            "question_index": 426,
+            "question": "How many chairs are there behind the table?",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "7120.747_00004317.jpg",
+            "question_index": 427,
+            "question": "Is the object behind the table larger in 3D volume than the object on the table?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "7120.747_00004317.jpg",
+            "question_index": 428,
+            "question": "If the 3D radius of the plate on top of the table is 2 meters, how long is the table in 3D?",
+            "answer_type": "float",
+            "answer": "6.0"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 429,
+            "question": "Are there more pillows than chairs?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 430,
+            "question": "Are there more lamps, chairs or pillows?",
+            "answer_type": "str",
+            "answer": "chairs"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 431,
+            "question": "Is the table the same color as the chair closest in 3D to it?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 432,
+            "question": "What color is the base of the lamp? Options: {brown, red, beige, navy}",
+            "answer_type": "str",
+            "answer": "brown"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 433,
+            "question": "Is the color of the lamp shade the same as the base of the lamp?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "5487.350_00011141.jpg",
+            "question_index": 434,
+            "question": "Are there two of the same object types?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "5091.241_00000859.jpg",
+            "question_index": 435,
+            "question": "If the size of the front most chair is 6 meters in 3D, what is the height in 3D of the table?",
+            "answer_type": "float",
+            "answer": "3.0"
+        },
+        {
+            "image_index": "5091.241_00000859.jpg",
+            "question_index": 436,
+            "question": "If the 3D height of the front most chair is 6 meters, what is the 3D height in meters of the chair in the far back of the scene?",
+            "answer_type": "float",
+            "answer": "6.0"
+        },
+        {
+            "image_index": "5091.241_00000859.jpg",
+            "question_index": 437,
+            "question": "Is the color of the coffee table the same as the color of the front most armchair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "5163.246_00005181.jpg",
+            "question_index": 438,
+            "question": "What is the ratio of bottles per paintings in the scene? Answer as a decimal",
+            "answer_type": "float",
+            "answer": "2.0"
+        },
+        {
+            "image_index": "1402.867_00002497.jpg",
+            "question_index": 439,
+            "question": "How many chairs are there behind the table?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "1402.867_00002497.jpg",
+            "question_index": 440,
+            "question": "What is the ratio of chairs to tables in the scene? Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "6.0"
+        },
+        {
+            "image_index": "1402.867_00002497.jpg",
+            "question_index": 441,
+            "question": "Is the material of the table the same as the material of the chair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "1548.573_00005379.jpg",
+            "question_index": 442,
+            "question": "If the 3D distance from the camera to the coffee table is 20cm, what is the 3D distance in cm of the armchair from the camera?",
+            "answer_type": "float",
+            "answer": "30.0"
+        },
+        {
+            "image_index": "1548.573_00005379.jpg",
+            "question_index": 443,
+            "question": "Is the color of the armchair the same as the color of the sofa?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "1550.573_00005499.jpg",
+            "question_index": 444,
+            "question": "If the armchair is 2m away from the camera in 3D, how far away from the camera is the bottle in 3D?",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "1550.573_00005499.jpg",
+            "question_index": 445,
+            "question": "Which one is closer in 3D to the camera, the bottle, the tv or the armchair?",
+            "answer_type": "str",
+            "answer": "bottle"
+        },
+        {
+            "image_index": "1550.573_00005499.jpg",
+            "question_index": 446,
+            "question": "Is the 3D distance between the armchair and the tv smaller than the 3D distance between the armchair and the bottle? Respond with yes or no.",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "1550.573_00005499.jpg",
+            "question_index": 447,
+            "question": "Is the color of the armchair the same as the color of the tv stand?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "1550.573_00005499.jpg",
+            "question_index": 448,
+            "question": "How many bottles would you have to stack on top of each other to make a structure that surpasses the height of the armchair?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "31911.512_00002923.jpg",
+            "question_index": 449,
+            "question": "If the plant is 20cm tall in 3D, how tall in 3D is the tv stand in centimeters?",
+            "answer_type": "float",
+            "answer": "15.0"
+        },
+        {
+            "image_index": "31911.512_00002923.jpg",
+            "question_index": 450,
+            "question": "If the 3D distance between the tv and the plant is 2 kilometers, what is the 3D distance in kilometers between the tv stand and the plant?",
+            "answer_type": "float",
+            "answer": "2.0"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 451,
+            "question": "Is the ratio of chairs to lamps less than 2?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 452,
+            "question": "If the black armchair is 1 cm away in 3D, how far away in 3D is the dining table in centimeters?",
+            "answer_type": "float",
+            "answer": "3.5"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 453,
+            "question": "Is the color of the chair next to the dining table the same as the armchair?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 454,
+            "question": "What is the object below the lamp?",
+            "answer_type": "str",
+            "answer": "cabinet"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 455,
+            "question": "How many chairs are there behind the dining table?",
+            "answer_type": "int",
+            "answer": "1"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 456,
+            "question": "What is the ratio of black chairs to lamps? Respond with a decimal",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "31920.525_00003464.jpg",
+            "question_index": 457,
+            "question": "Are there two of the same objects?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "31936.519_00004424.jpg",
+            "question_index": 458,
+            "question": "Is the painting or the mirror closer to the camera in 3D?",
+            "answer_type": "str",
+            "answer": "mirror"
+        },
+        {
+            "image_index": "31936.519_00004424.jpg",
+            "question_index": 459,
+            "question": "If the table is 20 meters tall in 3D, what is the 3D radius of the mirror in meters?",
+            "answer_type": "float",
+            "answer": "8.0"
+        },
+        {
+            "image_index": "31936.519_00004424.jpg",
+            "question_index": 460,
+            "question": "Are there two of the same object type?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "31973.621_00001477.jpg",
+            "question_index": 461,
+            "question": "If a table has 2 legs and a chair has 6 legs, how many legs are there in total?",
+            "answer_type": "int",
+            "answer": "26"
+        },
+        {
+            "image_index": "31973.621_00001477.jpg",
+            "question_index": 462,
+            "question": "Are there 3 or more of the same object type?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "31973.621_00001477.jpg",
+            "question_index": 463,
+            "question": "What material is the dining table made of?",
+            "answer_type": "str",
+            "answer": "glass"
+        },
+        {
+            "image_index": "32082.626_00008020.jpg",
+            "question_index": 464,
+            "question": "Are there more paintings than plants?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "32082.626_00008020.jpg",
+            "question_index": 465,
+            "question": "What is the ratio of paintings to pillows? Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "32082.626_00008020.jpg",
+            "question_index": 466,
+            "question": "What is the color of the pillow closer in depth?",
+            "answer_type": "str",
+            "answer": "yellow"
+        },
+        {
+            "image_index": "32095.621_00008800.jpg",
+            "question_index": 467,
+            "question": "Are there more paintings, chairs or lamps?",
+            "answer_type": "str",
+            "answer": "chairs"
+        },
+        {
+            "image_index": "32095.621_00008800.jpg",
+            "question_index": 468,
+            "question": "There are three of the same object types. What object is it?",
+            "answer_type": "str",
+            "answer": "painting"
+        },
+        {
+            "image_index": "72735.397_00003236.jpg",
+            "question_index": 469,
+            "question": "What is the ratio of sofas to pillows? Exclude the sofa pillows as pillows. Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "0.25"
+        },
+        {
+            "image_index": "72534.896_00003518.jpg",
+            "question_index": 470,
+            "question": "What is the ratio of sofas to pillows? Exclude the sofa pillows as pillows. Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "0.25"
+        },
+        {
+            "image_index": "72534.896_00003518.jpg",
+            "question_index": 471,
+            "question": "If the pink pillow is 2 meters tall, how tall is the gray pillow right in front of it in meters?",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "73398.788_00001838.jpg",
+            "question_index": 472,
+            "question": "If the 3D distance between the lamp and the pillow is 2 meters, what is the 3D distance between the pillow and the towel?",
+            "answer_type": "float",
+            "answer": "8.0"
+        },
+        {
+            "image_index": "73398.788_00001838.jpg",
+            "question_index": 473,
+            "question": "What is the ratio of pillows to towels? Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "2.0"
+        },
+        {
+            "image_index": "73398.788_00001838.jpg",
+            "question_index": 474,
+            "question": "Is the color of the lamp the same as the color of the pillow behind the pink pillow?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "86379.887_00000637.jpg",
+            "question_index": 475,
+            "question": "If the bowl on the table has a 3D diameter of 4 meters, how long is the table in 3D in meters?",
+            "answer_type": "float",
+            "answer": "14.0"
+        },
+        {
+            "image_index": "86379.887_00000637.jpg",
+            "question_index": 476,
+            "question": "Excluding ceiling lights, what is the ratio of chairs to lamps? Respond with a decimal",
+            "answer_type": "float",
+            "answer": "5.0"
+        },
+        {
+            "image_index": "86425.885_00003398.jpg",
+            "question_index": 477,
+            "question": "What is the ratio of chairs closer to the camera than the bowl to the chairs further from the camera than the bowl. Respond with a decimal.",
+            "answer_type": "float",
+            "answer": "1.0"
+        },
+        {
+            "image_index": "86425.885_00003398.jpg",
+            "question_index": 478,
+            "question": "How many chairs are further from the camera than the bowl?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "91452.019_00011201.jpg",
+            "question_index": 479,
+            "question": "How many flower vases are there?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "91452.019_00011201.jpg",
+            "question_index": 480,
+            "question": "If the 3D height of the camera closest to the camera is 5 feet, what is the 3D height of the chair farthest from the camera?",
+            "answer_type": "float",
+            "answer": "6.252"
+        },
+        {
+            "image_index": "91452.019_00011201.jpg",
+            "question_index": 481,
+            "question": "What is the ratio of the 3D width of the dark gray cabinet on the left to the 3D length of the gray cabinet to the left of the door?",
+            "answer_type": "float",
+            "answer": "1.026"
+        },
+        {
+            "image_index": "91452.019_00011201.jpg",
+            "question_index": 482,
+            "question": "Is the yellow flower vase closer to the camera than the brown door?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "16553.807_00000283.jpg",
+            "question_index": 483,
+            "question": "How many chairs are there?",
+            "answer_type": "int",
+            "answer": "3"
+        },
+        {
+            "image_index": "16553.807_00000283.jpg",
+            "question_index": 484,
+            "question": "What object is partially visible in the mirror?",
+            "answer_type": "str",
+            "answer": "painting"
+        },
+        {
+            "image_index": "16553.807_00000283.jpg",
+            "question_index": 485,
+            "question": "If the 3D height of the table is 3 inches, what is the 3D width of the chair farthest from the camera?",
+            "answer_type": "float",
+            "answer": "2.501"
+        },
+        {
+            "image_index": "16553.807_00000283.jpg",
+            "question_index": 486,
+            "question": "If the length of the chair closest to the camera is 6 meters, and the metal bowl to the left of it was pushed away from the wall by 1 meter, would it fall to the ground?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "39530.165_00004917.jpg",
+            "question_index": 487,
+            "question": "What is the ratio of the 3D height of the dining table to the 3D height of the countertop behind it?",
+            "answer_type": "float",
+            "answer": "0.868"
+        },
+        {
+            "image_index": "39530.165_00004917.jpg",
+            "question_index": 488,
+            "question": "If the 3D width of the half-bench is 20 feet, what is the 3D height of the white chair?",
+            "answer_type": "float",
+            "answer": "16.701"
+        },
+        {
+            "image_index": "39530.165_00004917.jpg",
+            "question_index": 489,
+            "question": "If the blue stools are 5 centimeters away from the camera, how many centimeters away from the camera is the white chair to the right of the table?",
+            "answer_type": "float",
+            "answer": "3.557"
+        },
+        {
+            "image_index": "39530.165_00004917.jpg",
+            "question_index": 490,
+            "question": "What is the ratio of the 3D width of the dining table to the 3D width of the shortest cabinet above the kitchen countertop?",
+            "answer_type": "float",
+            "answer": "2.924"
+        },
+        {
+            "image_index": "84436.306_00005919.jpg",
+            "question_index": 491,
+            "question": "If the blue light fell, would it hit the white cabinet?",
+            "answer_type": "str",
+            "answer": "no"
+        },
+        {
+            "image_index": "84436.306_00005919.jpg",
+            "question_index": 492,
+            "question": "If the 3D height of the white cabinet with the phone on it is 4 inches, what is the 3D width of the white cabinet facing the camera?",
+            "answer_type": "float",
+            "answer": "0.903"
+        },
+        {
+            "image_index": "84436.306_00005919.jpg",
+            "question_index": 493,
+            "question": "If the 3D height of the white cabinet facing the camera is 5 feet, what is the 3D height of the gray chair closest to the camera?",
+            "answer_type": "float",
+            "answer": "4.297"
+        },
+        {
+            "image_index": "84436.306_00005919.jpg",
+            "question_index": 494,
+            "question": "Is the brown lamp farther away from the camera than the yellow lights above it?",
+            "answer_type": "str",
+            "answer": "yes"
+        },
+        {
+            "image_index": "77394.588_00002882.jpg",
+            "question_index": 495,
+            "question": "How many circular cabinet handles are there that are facing the camera?",
+            "answer_type": "int",
+            "answer": "7"
+        },
+        {
+            "image_index": "77394.588_00002882.jpg",
+            "question_index": 496,
+            "question": "If the 3D width of the television is 200 meters, what is the 3D height of the gray chair?",
+            "answer_type": "float",
+            "answer": "136.02"
+        },
+        {
+            "image_index": "77394.588_00002882.jpg",
+            "question_index": 497,
+            "question": "What is the ratio of the 3D width of the oven to the 3D width of the gray chair?",
+            "answer_type": "float",
+            "answer": "1.391"
+        },
+        {
+            "image_index": "77394.588_00002882.jpg",
+            "question_index": 498,
+            "question": "How many lights are there in the scene?",
+            "answer_type": "int",
+            "answer": "2"
+        },
+        {
+            "image_index": "27853.080_00003590.jpg",
+            "question_index": 499,
+            "question": "What is the ratio of sofas to coffee tables? Answer as a decimal.",
+            "answer_type": "float",
+            "answer": "1.5"
+        },
+        {
+            "image_index": "10967.124_00004419.jpg",
+            "question_index": 500,
+            "question": "Which chair has more legs, the wooden one or the white one? Options: {wooden, white, same}",
+            "answer_type": "str",
+            "answer": "same"
+        }
+    ]
+}

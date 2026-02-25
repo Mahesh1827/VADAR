@@ -33,6 +33,25 @@ def untab(text):
     return untabbed_text
 
 
+def load_image(question_data, images_folder_path=""):
+    """Resolve the image for a question dict.
+
+    Priority:
+    1. ``question_data["image"]`` if it is already a ``PIL.Image.Image``.
+    2. ``question_data["image"]`` if it is a path string — opened with PIL.
+    3. Fall-back: ``os.path.join(images_folder_path, question_data["image_filename"])``.
+    """
+    import os
+    if "image" in question_data:
+        img = question_data["image"]
+        if isinstance(img, Image.Image):
+            return img
+        # treat as a file-path string
+        return Image.open(img)
+    # legacy fall-back
+    return Image.open(os.path.join(images_folder_path, question_data["image_filename"]))
+
+
 def get_methods_from_json(api_json):
     methods = []
     namespace = {}

@@ -94,8 +94,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--image-pth",
-        default="data/omni3d-bench/images/",
-        help="Path to directory containing images associated with questions (default: %(default)s)",
+        default="",
+        help="Path to directory containing images (optional if 'image' field is set in each question) (default: %(default)s)",
     )
     parser.add_argument(
         "--models-path",

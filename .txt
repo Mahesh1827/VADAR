@@ -29,3 +29,19 @@ Using cu121 instead of cu122 (functionally identical)
 xformers 0.0.34 instead of 0.0.24 (newer, better)
 NumPy 1.26.4 instead of 1.25.0 (Python 3.12 compatibility)
 Some dependency warnings for unidepth (expected, non-critical)
+
+✅ Omni3D-Bench Dataset
+
+   Loaded dmarsili/Omni3D-Bench from HuggingFace (501 training samples)
+   Features: image_index, image, q_index, question, answer, answer_type
+   Generated annotations.json at T:\VADAR2\annotations.json (501 entries)
+   Helper script saved at T:\VADAR2\generate_annotations.py
+
+✅ CLEVR Subset Data
+
+   Installed gdown for Google Drive downloads
+   Downloaded clevr_subset.zip (195MB) from Google Drive
+   Extracted to T:\VADAR2\data\clevr_subset\
+      - images\          (CLEVR scene images)
+      - annotations.json (CLEVR questions & answers)
+   Note: download_data.sh was replicated using Python (bash not available on Windows)
